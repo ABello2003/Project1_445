@@ -51,3 +51,15 @@ build/
 
 # Separate GitHub submission folder, if created
 github_submission/
+
+
+# Scraping test pages
+*_test.html
+
+# Temporary scraper checkpoints
+data/*progress*.json
+
+# Older backup datasets
+data/used_cars_with_msrp - Copy.csv
+data/used_cars_before_honda_switch.csv
+data/msrp_reference_before_batch1.csv
