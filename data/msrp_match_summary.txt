@@ -1,0 +1,32 @@
+=================================================================
+MSRP MATCHING SUMMARY
+=================================================================
+Total vehicles: 1832
+MSRP references loaded: 108
+Base configurations available: 25
+Matched vehicles: 1033
+Unmatched vehicles: 799
+Match rate: 56.39%
+
+Matching method: year + make + model
+MSRP basis: standard/base trim, standard drivetrain
+Retention ratio: listing price / base MSRP
+
+NOTE: This is a base-MSRP-relative retention ratio.
+It is not an exact trim-specific depreciation ratio.
+Existing MSRP references may still require source auditing.
+
+Vehicles by make:
+make
+Honda     763
+Nissan    721
+Toyota    348
+
+Matched vehicles by make:
+make
+Honda     478
+Nissan    479
+Toyota     76
+
+Remaining missing configurations:
+83

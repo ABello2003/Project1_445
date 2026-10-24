@@ -1,0 +1,72 @@
+USED CAR DATA QUALITY REPORT
+============================================================
+Original combined records: 1165
+Invalid records removed: 2
+Duplicate records removed: 0
+Final cleaned records: 1163
+
+RECORDS BY SOURCE
+source
+Cars.com    663
+Carvana     500
+
+RECORDS BY MAKE AND MODEL
+make    model   
+BMW     3 Series      1
+        X3           93
+Nissan  Altima      163
+        Rogue       276
+        Sentra      282
+Toyota  Camry       157
+        Corolla      96
+        RAV4         95
+
+MISSING VALUES
+source                       0
+year                         0
+make                         0
+model                        0
+trim                         0
+price                        0
+mileage                      0
+color                        0
+condition                    0
+vin                          0
+sku                          0
+title                        0
+description                  0
+listing_url                  0
+vehicle_age                  0
+mileage_per_year             0
+mentions_one_owner           0
+mentions_accident_free       0
+mentions_certified           0
+mentions_awd                 0
+original_msrp             1163
+value_retention_ratio     1163
+
+PRICE STATISTICS
+count     1163.000000
+mean     22178.117799
+std       8179.313611
+min       6107.000000
+25%      17603.500000
+50%      20008.000000
+75%      24847.500000
+max      61643.000000
+
+MILEAGE STATISTICS
+count      1163.000000
+mean      49210.525365
+std       32767.907474
+min         142.000000
+25%       24974.000000
+50%       44238.000000
+75%       65850.000000
+max      219147.000000
+
+FEATURE INDICATOR COUNTS
+mentions_one_owner: 0
+mentions_accident_free: 0
+mentions_certified: 110
+mentions_awd: 44

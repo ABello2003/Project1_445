@@ -1,0 +1,53 @@
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# API keys and sensitive information
+.env
+.env.*
+!.env.example
+secrets.json
+credentials.json
+
+# VS Code local settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python testing and build files
+.pytest_cache/
+.mypy_cache/
+dist/
+build/
+*.egg-info/
+
+# Trained models (can be regenerated)
+*.joblib
+*.pkl
+
+# Temporary and backup files
+*.tmp
+*.bak
+*~
+*.log
+
+# Automatically generated backup datasets
+*_backup.csv
+*_backup_*.csv
+
+# Separate GitHub submission folder, if created
+github_submission/

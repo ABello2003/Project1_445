@@ -1,0 +1,501 @@
+source,year,make,model,trim,price,mileage,color,condition,vin,sku,title,description,listing_url
+Carvana,2026,Toyota,Corolla,Toyota Corolla LE,22990.0,19411,Silver,Used,5YFB4MDE1TP393446,3006601602,2026 Toyota Corolla,"Used 2026 Toyota Corolla LE with 19411 miles - $22,990",https://www.carvana.com/vehicle/4745315
+Carvana,2023,Toyota,Corolla,Toyota Corolla SE,26590.0,257,Black,Used,5YFS4MCE7PP157410,3006433205,2023 Toyota Corolla,"Used 2023 Toyota Corolla SE with 257 miles - $26,590",https://www.carvana.com/vehicle/4661676
+Carvana,2023,Toyota,Corolla,Toyota Corolla LE,21990.0,31258,Silver,Used,5YFB4MDE1PP068169,3006725152,2023 Toyota Corolla,"Used 2023 Toyota Corolla LE with 31258 miles - $21,990",https://www.carvana.com/vehicle/4804629
+Carvana,2021,BMW,3 Series,BMW 3 Series 330i xDrive,26590.0,52749,Blue,Used,3MW5R7J04M8B98707,3006685758,2021 BMW 3 Series,"Used 2021 BMW 3 Series 330i xDrive with 52749 miles - $26,590",https://www.carvana.com/vehicle/4804827
+Carvana,2025,Nissan,Altima,2.5 SV,18990.0,51745,White,Used,1N4BL4DV4SN373907,3006858739,2025 Nissan Altima,"Used 2025 Nissan Altima 2.5 SV with 51745 miles - $18,990",https://www.carvana.com/vehicle/4848392
+Carvana,2022,Nissan,Altima,2.5 S,20990.0,12229,White,Used,1N4BL4BV8NN424297,3006832048,2022 Nissan Altima,"Used 2022 Nissan Altima 2.5 S with 12229 miles - $20,990",https://www.carvana.com/vehicle/4844272
+Carvana,2023,Nissan,Altima,2.5 SV,20990.0,20360,Silver,Used,1N4BL4DV0PN422835,3006814091,2023 Nissan Altima,"Used 2023 Nissan Altima 2.5 SV with 20360 miles - $20,990",https://www.carvana.com/vehicle/4844651
+Carvana,2018,Nissan,Altima,2.5 S,15590.0,69780,Gray,Used,1N4AL3AP2JC168897,3006742391,2018 Nissan Altima,"Used 2018 Nissan Altima 2.5 S with 69780 miles - $15,590",https://www.carvana.com/vehicle/4795991
+Carvana,2020,Nissan,Altima,VC-T Platinum,20590.0,61521,Silver,Used,1N4AL4FV7LN307474,3006833064,2020 Nissan Altima,"Used 2020 Nissan Altima VC-T Platinum with 61521 miles - $20,590",https://www.carvana.com/vehicle/4829186
+Carvana,2024,Nissan,Altima,2.5 S,21990.0,20279,Gray,Used,1N4BL4BV0RN404275,3006885864,2024 Nissan Altima,"Used 2024 Nissan Altima 2.5 S with 20279 miles - $21,990",https://www.carvana.com/vehicle/4845853
+Carvana,2022,Nissan,Altima,2.5 SV,17990.0,69870,Silver,Used,1N4BL4DV6NN356305,3006845887,2022 Nissan Altima,"Used 2022 Nissan Altima 2.5 SV with 69870 miles - $17,990",https://www.carvana.com/vehicle/4829686
+Carvana,2019,Nissan,Altima,2.5 SR,18590.0,51245,Silver,Used,1N4BL4CW8KC172713,3006592186,2019 Nissan Altima,"Used 2019 Nissan Altima 2.5 SR with 51245 miles - $18,590",https://www.carvana.com/vehicle/4758677
+Carvana,2025,Nissan,Altima,2.5 SV,18590.0,58403,Gray,Used,1N4BL4DV7SN318917,3006797264,2025 Nissan Altima,"Used 2025 Nissan Altima 2.5 SV with 58403 miles - $18,590",https://www.carvana.com/vehicle/4824675
+Carvana,2019,Nissan,Altima,2.5 S,18590.0,24749,White,Used,1N4BL4BV2KC251917,3006591489,2019 Nissan Altima,"Used 2019 Nissan Altima 2.5 S with 24749 miles - $18,590",https://www.carvana.com/vehicle/4730635
+Carvana,2025,Nissan,Altima,2.5 SR,22990.0,17526,White,Used,1N4BL4CV8SN431051,3006689837,2025 Nissan Altima,"Used 2025 Nissan Altima 2.5 SR with 17526 miles - $22,990",https://www.carvana.com/vehicle/4778984
+Carvana,2024,Nissan,Altima,2.5 SV,20990.0,30710,Black,Used,1N4BL4DV9RN326124,3006815884,2024 Nissan Altima,"Used 2024 Nissan Altima 2.5 SV with 30710 miles - $20,990",https://www.carvana.com/vehicle/4826248
+Carvana,2024,Nissan,Altima,2.5 SV,23590.0,17738,White,Used,1N4BL4DW5RN314089,3006814092,2024 Nissan Altima,"Used 2024 Nissan Altima 2.5 SV with 17738 miles - $23,590",https://www.carvana.com/vehicle/4832425
+Carvana,2023,Nissan,Altima,2.5 SV,19990.0,43682,Red,Used,1N4BL4DV3PN415572,3006821155,2023 Nissan Altima,"Used 2023 Nissan Altima 2.5 SV with 43682 miles - $19,990",https://www.carvana.com/vehicle/4842314
+Carvana,2020,Nissan,Altima,2.5 S,19990.0,18765,Silver,Used,1N4BL4BV4LC139251,3006718271,2020 Nissan Altima,"Used 2020 Nissan Altima 2.5 S with 18765 miles - $19,990",https://www.carvana.com/vehicle/4795511
+Carvana,2024,Nissan,Altima,2.5 SV,18590.0,51218,Silver,Used,1N4BL4DV4RN329027,3006849633,2024 Nissan Altima,"Used 2024 Nissan Altima 2.5 SV with 51218 miles - $18,590",https://www.carvana.com/vehicle/4834279
+Carvana,2023,Nissan,Altima,2.5 SR,22590.0,37703,Gray,Used,1N4BL4CV7PN404415,3006849142,2023 Nissan Altima,"Used 2023 Nissan Altima 2.5 SR with 37703 miles - $22,590",https://www.carvana.com/vehicle/4853314
+Carvana,2024,Nissan,Altima,2.5 SV,21990.0,19480,Silver,Used,1N4BL4DW8RN328861,3006865351,2024 Nissan Altima,"Used 2024 Nissan Altima 2.5 SV with 19480 miles - $21,990",https://www.carvana.com/vehicle/4856558
+Carvana,2023,Nissan,Altima,2.5 SR,20990.0,36002,White,Used,1N4BL4CV0PN416194,3006674495,2023 Nissan Altima,"Used 2023 Nissan Altima 2.5 SR with 36002 miles - $20,990",https://www.carvana.com/vehicle/4767448
+Carvana,2024,Nissan,Altima,2.5 SV,21590.0,17358,White,Used,1N4BL4DV9RN322767,3006836254,2024 Nissan Altima,"Used 2024 Nissan Altima 2.5 SV with 17358 miles - $21,590",https://www.carvana.com/vehicle/4838461
+Carvana,2022,Nissan,Altima,2.5 SR,20990.0,31820,Gray,Used,1N4BL4CW2NN310612,3006595618,2022 Nissan Altima,"Used 2022 Nissan Altima 2.5 SR with 31820 miles - $20,990",https://www.carvana.com/vehicle/4850243
+Carvana,2024,Nissan,Altima,2.5 SV,19990.0,52910,Gray,Used,1N4BL4DW5RN345780,3006769005,2024 Nissan Altima,"Used 2024 Nissan Altima 2.5 SV with 52910 miles - $19,990",https://www.carvana.com/vehicle/4807443
+Carvana,2023,Nissan,Altima,2.5 SR,23590.0,24741,Silver,Used,1N4BL4CW0PN313091,3006670748,2023 Nissan Altima,"Used 2023 Nissan Altima 2.5 SR with 24741 miles - $23,590",https://www.carvana.com/vehicle/4765033
+Carvana,2023,Nissan,Altima,2.5 SV,21990.0,22589,Red,Used,1N4BL4DW4PN426458,3006883034,2023 Nissan Altima,"Used 2023 Nissan Altima 2.5 SV with 22589 miles - $21,990",https://www.carvana.com/vehicle/4848246
+Carvana,2024,Nissan,Altima,2.5 SV,20990.0,32515,Black,Used,1N4BL4DW4RN306470,3006785739,2024 Nissan Altima,"Used 2024 Nissan Altima 2.5 SV with 32515 miles - $20,990",https://www.carvana.com/vehicle/4815371
+Carvana,2025,Nissan,Altima,2.5 SV,18990.0,40655,White,Used,1N4BL4DV7SN401036,3006846123,2025 Nissan Altima,"Used 2025 Nissan Altima 2.5 SV with 40655 miles - $18,990",https://www.carvana.com/vehicle/4841588
+Carvana,2016,Nissan,Altima,2.5 SL,16990.0,70125,White,Used,1N4AL3AP6GC272723,2004975507,2016 Nissan Altima,"Used 2016 Nissan Altima 2.5 SL with 70125 miles - $16,990",https://www.carvana.com/vehicle/4491971
+Carvana,2018,Nissan,Altima,2.5 S,17590.0,36063,Red,Used,1N4AL3AP9JC160392,3006539523,2018 Nissan Altima,"Used 2018 Nissan Altima 2.5 S with 36063 miles - $17,590",https://www.carvana.com/vehicle/4712587
+Carvana,2016,Nissan,Altima,2.5 SR,13990.0,71882,Blue,Used,1N4AL3AP7GC180200,2004558467,2016 Nissan Altima,"Used 2016 Nissan Altima 2.5 SR with 71882 miles - $13,990",https://www.carvana.com/vehicle/4218511
+Carvana,2023,Nissan,Altima,2.5 SR,21990.0,29678,Silver,Used,1N4BL4CV8PN417464,3006767940,2023 Nissan Altima,"Used 2023 Nissan Altima 2.5 SR with 29678 miles - $21,990",https://www.carvana.com/vehicle/4812365
+Carvana,2025,Nissan,Altima,2.5 S,20990.0,30030,Black,Used,1N4BL4BV6SN306731,3006855924,2025 Nissan Altima,"Used 2025 Nissan Altima 2.5 S with 30030 miles - $20,990",https://www.carvana.com/vehicle/4842435
+Carvana,2023,Nissan,Altima,2.5 SL,22990.0,16438,Red,Used,1N4BL4EVXPN410285,3006690051,2023 Nissan Altima,"Used 2023 Nissan Altima 2.5 SL with 16438 miles - $22,990",https://www.carvana.com/vehicle/4819061
+Carvana,2023,Nissan,Altima,2.5 SV,20990.0,22088,Red,Used,1N4BL4DW1PN419127,3006718701,2023 Nissan Altima,"Used 2023 Nissan Altima 2.5 SV with 22088 miles - $20,990",https://www.carvana.com/vehicle/4818924
+Carvana,2017,Nissan,Altima,2.5 S,14590.0,73451,White,Used,1N4AL3AP6HC164796,3006839636,2017 Nissan Altima,"Used 2017 Nissan Altima 2.5 S with 73451 miles - $14,590",https://www.carvana.com/vehicle/4825888
+Carvana,2020,Nissan,Altima,2.5 SL,20590.0,54505,Blue,Used,1N4BL4EW9LC140965,3006707984,2020 Nissan Altima,"Used 2020 Nissan Altima 2.5 SL with 54505 miles - $20,590",https://www.carvana.com/vehicle/4783662
+Carvana,2023,Nissan,Altima,2.5 SL,21990.0,41036,White,Used,1N4BL4EW5PN409473,3006767948,2023 Nissan Altima,"Used 2023 Nissan Altima 2.5 SL with 41036 miles - $21,990",https://www.carvana.com/vehicle/4810902
+Carvana,2026,Nissan,Altima,2.5 SV,21098.0,11967,Black,Used,1N4BL4DV0TN305332,3006430339,2026 Nissan Altima,"Used 2026 Nissan Altima 2.5 SV with 11967 miles - $21,098",https://www.carvana.com/vehicle/4707521
+Carvana,2026,Nissan,Altima,2.5 SR,25990.0,16180,White,Used,1N4BL4CV6TN320080,3006874679,2026 Nissan Altima,"Used 2026 Nissan Altima 2.5 SR with 16180 miles - $25,990",https://www.carvana.com/vehicle/4848456
+Carvana,2019,Nissan,Altima,2.5 SV,20990.0,29144,Gray,Used,1N4BL4DW5KC190925,3006448346,2019 Nissan Altima,"Used 2019 Nissan Altima 2.5 SV with 29144 miles - $20,990",https://www.carvana.com/vehicle/4672616
+Carvana,2020,Nissan,Altima,2.5 SR,18590.0,63123,Gray,Used,1N4BL4CV0LC233447,3006608504,2020 Nissan Altima,"Used 2020 Nissan Altima 2.5 SR with 63123 miles - $18,590",https://www.carvana.com/vehicle/4737444
+Carvana,2024,Nissan,Altima,2.5 SL,23990.0,27385,Black,Used,1N4BL4EV5RN308041,3006814433,2024 Nissan Altima,"Used 2024 Nissan Altima 2.5 SL with 27385 miles - $23,990",https://www.carvana.com/vehicle/4827123
+Carvana,2023,Nissan,Altima,2.5 SR,25590.0,9329,Red,Used,1N4BL4CV3PN311150,3006799298,2023 Nissan Altima,"Used 2023 Nissan Altima 2.5 SR with 9329 miles - $25,590",https://www.carvana.com/vehicle/4814933
+Carvana,2025,Nissan,Altima,2.5 SV,20590.0,44219,White,Used,1N4BL4DV0SN374150,3006795833,2025 Nissan Altima,"Used 2025 Nissan Altima 2.5 SV with 44219 miles - $20,590",https://www.carvana.com/vehicle/4831695
+Carvana,2024,Nissan,Altima,2.5 SL,24590.0,33642,Gray,Used,1N4BL4EWXRN421525,3006607223,2024 Nissan Altima,"Used 2024 Nissan Altima 2.5 SL with 33642 miles - $24,590",https://www.carvana.com/vehicle/4742875
+Carvana,2025,Nissan,Altima,2.5 SV,18990.0,52173,White,Used,1N4BL4DV3SN350067,3006845664,2025 Nissan Altima,"Used 2025 Nissan Altima 2.5 SV with 52173 miles - $18,990",https://www.carvana.com/vehicle/4842088
+Carvana,2020,Nissan,Altima,2.5 S,21590.0,17270,Black,Used,1N4BL4BV0LC117294,3006795145,2020 Nissan Altima,"Used 2020 Nissan Altima 2.5 S with 17270 miles - $21,590",https://www.carvana.com/vehicle/4817592
+Carvana,2022,Nissan,Altima,2.5 SR,18990.0,66969,Red,Used,1N4BL4CV4NN408628,3006821154,2022 Nissan Altima,"Used 2022 Nissan Altima 2.5 SR with 66969 miles - $18,990",https://www.carvana.com/vehicle/4833993
+Carvana,2024,Nissan,Altima,2.5 SR,20590.0,40158,Black,Used,1N4BL4CV0RN309746,3006532248,2024 Nissan Altima,"Used 2024 Nissan Altima 2.5 SR with 40158 miles - $20,590",https://www.carvana.com/vehicle/4717512
+Carvana,2017,Nissan,Altima,2.5 SL,17990.0,21027,White,Used,1N4AL3AP2HC158753,3006539739,2017 Nissan Altima,"Used 2017 Nissan Altima 2.5 SL with 21027 miles - $17,990",https://www.carvana.com/vehicle/4708105
+Carvana,2024,Nissan,Altima,2.5 SV,18990.0,55117,Gray,Used,1N4BL4DV3RN369504,3006395332,2024 Nissan Altima,"Used 2024 Nissan Altima 2.5 SV with 55117 miles - $18,990",https://www.carvana.com/vehicle/4652095
+Carvana,2019,Nissan,Altima,2.5 SR,19590.0,45981,Gray,Used,1N4BL4CW3KC138789,3006745602,2019 Nissan Altima,"Used 2019 Nissan Altima 2.5 SR with 45981 miles - $19,590",https://www.carvana.com/vehicle/4840923
+Carvana,2021,Nissan,Altima,2.5 SL,20990.0,63711,Red,Used,1N4BL4EW5MN304086,3006842758,2021 Nissan Altima,"Used 2021 Nissan Altima 2.5 SL with 63711 miles - $20,990",https://www.carvana.com/vehicle/4847058
+Carvana,2019,Nissan,Altima,2.5 Platinum,24590.0,16981,White,Used,1N4BL4FW7KC135454,3006756275,2019 Nissan Altima,"Used 2019 Nissan Altima 2.5 Platinum with 16981 miles - $24,590",https://www.carvana.com/vehicle/4801856
+Carvana,2023,Nissan,Altima,2.5 SV,20990.0,28153,White,Used,1N4BL4DW3PN379469,3006645084,2023 Nissan Altima,"Used 2023 Nissan Altima 2.5 SV with 28153 miles - $20,990",https://www.carvana.com/vehicle/4753016
+Carvana,2025,Nissan,Altima,2.5 SR,28590.0,2869,Gray,Used,1N4BL4CW9SN422786,3006898240,2025 Nissan Altima,"Used 2025 Nissan Altima 2.5 SR with 2869 miles - $28,590",https://www.carvana.com/vehicle/4853841
+Carvana,2020,Nissan,Altima,2.5 S,16990.0,68992,Black,Used,1N4BL4BV5LC158441,3006628640,2020 Nissan Altima,"Used 2020 Nissan Altima 2.5 S with 68992 miles - $16,990",https://www.carvana.com/vehicle/4748901
+Carvana,2024,Nissan,Altima,2.5 SV,21590.0,27118,Silver,Used,1N4BL4DW0RN421308,3006692459,2024 Nissan Altima,"Used 2024 Nissan Altima 2.5 SV with 27118 miles - $21,590",https://www.carvana.com/vehicle/4784619
+Carvana,2026,Nissan,Altima,2.5 SV,21499.0,13029,Gray,Used,1N4BL4DV0TN309316,3006647346,2026 Nissan Altima,"Used 2026 Nissan Altima 2.5 SV with 13029 miles - $21,499",https://www.carvana.com/vehicle/4768002
+Carvana,2024,Nissan,Altima,2.5 SV,18590.0,54086,Gray,Used,1N4BL4DV3RN369180,3006824749,2024 Nissan Altima,"Used 2024 Nissan Altima 2.5 SV with 54086 miles - $18,590",https://www.carvana.com/vehicle/4831389
+Carvana,2021,Nissan,Altima,2.5 SV,14990.0,106224,Gray,Used,1N4BL4DV8MN356692,3006563797,2021 Nissan Altima,"Used 2021 Nissan Altima 2.5 SV with 106224 miles - $14,990",https://www.carvana.com/vehicle/4726844
+Carvana,2022,Nissan,Altima,VC-T SR,19590.0,58030,Black,Used,1N4AL4CV6NN362490,3006845779,2022 Nissan Altima,"Used 2022 Nissan Altima VC-T SR with 58030 miles - $19,590",https://www.carvana.com/vehicle/4830888
+Carvana,2023,Nissan,Altima,2.5 SV,20590.0,28015,Gray,Used,1N4BL4DW1PN412291,3006664133,2023 Nissan Altima,"Used 2023 Nissan Altima 2.5 SV with 28015 miles - $20,590",https://www.carvana.com/vehicle/4772454
+Carvana,2024,Nissan,Altima,2.5 S,17990.0,67050,White,Used,1N4BL4BV0RN368815,3006860281,2024 Nissan Altima,"Used 2024 Nissan Altima 2.5 S with 67050 miles - $17,990",https://www.carvana.com/vehicle/4843571
+Carvana,2025,Nissan,Altima,2.5 SR,20590.0,47742,White,Used,1N4BL4CV4SN353027,3006493427,2025 Nissan Altima,"Used 2025 Nissan Altima 2.5 SR with 47742 miles - $20,590",https://www.carvana.com/vehicle/4693396
+Carvana,2024,Nissan,Altima,2.5 SV,17990.0,65082,Silver,Used,1N4BL4DVXRN389538,3006826805,2024 Nissan Altima,"Used 2024 Nissan Altima 2.5 SV with 65082 miles - $17,990",https://www.carvana.com/vehicle/4844275
+Carvana,2024,Nissan,Altima,2.5 SR,23990.0,17304,Black,Used,1N4BL4CW1RN313183,3006835346,2024 Nissan Altima,"Used 2024 Nissan Altima 2.5 SR with 17304 miles - $23,990",https://www.carvana.com/vehicle/4843635
+Carvana,2026,Nissan,Altima,2.5 SR,25590.0,21635,Gray,Used,1N4BL4CV8TN317777,3006814426,2026 Nissan Altima,"Used 2026 Nissan Altima 2.5 SR with 21635 miles - $25,590",https://www.carvana.com/vehicle/4837158
+Carvana,2020,Nissan,Sentra,S,19790.0,18765,Gray,Used,3N1AB8BV3LY259195,3006477579,2020 Nissan Sentra,"Used 2020 Nissan Sentra S with 18765 miles - $19,790",https://www.carvana.com/vehicle/4675708
+Carvana,2019,Nissan,Sentra,S,12790.0,101848,Blue,Used,3N1AB7APXKY319355,3006695906,2019 Nissan Sentra,"Used 2019 Nissan Sentra S with 101848 miles - $12,790",https://www.carvana.com/vehicle/4778962
+Carvana,2025,Nissan,Sentra,SV,19590.0,43298,Gray,Used,3N1AB8CV0SY310164,3006702753,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 43298 miles - $19,590",https://www.carvana.com/vehicle/4784971
+Carvana,2020,Nissan,Sentra,SR,17590.0,64833,Red,Used,3N1AB8DV1LY209800,3006606880,2020 Nissan Sentra,"Used 2020 Nissan Sentra SR with 64833 miles - $17,590",https://www.carvana.com/vehicle/4742436
+Carvana,2017,Nissan,Sentra,SV,13790.0,72392,Gray,Used,3N1AB7AP8HY363122,3006483039,2017 Nissan Sentra,"Used 2017 Nissan Sentra SV with 72392 miles - $13,790",https://www.carvana.com/vehicle/4678343
+Carvana,2025,Nissan,Sentra,S,21990.0,1752,Gray,Used,3N1AB8BV4SY406414,3006883264,2025 Nissan Sentra,"Used 2025 Nissan Sentra S with 1752 miles - $21,990",https://www.carvana.com/vehicle/4851364
+Carvana,2026,Nissan,Sentra,SR,22990.0,19968,Black,Used,3N1AB9DV2TY228488,3006729289,2026 Nissan Sentra,"Used 2026 Nissan Sentra SR with 19968 miles - $22,990",https://www.carvana.com/vehicle/4795261
+Carvana,2019,Nissan,Sentra,S,17290.0,27280,Silver,Used,3N1AB7AP3KY220425,3006702658,2019 Nissan Sentra,"Used 2019 Nissan Sentra S with 27280 miles - $17,290",https://www.carvana.com/vehicle/4779459
+Carvana,2019,Nissan,Sentra,SV,14990.0,70402,Black,Used,3N1AB7AP7KY339157,3006785218,2019 Nissan Sentra,"Used 2019 Nissan Sentra SV with 70402 miles - $14,990",https://www.carvana.com/vehicle/4811972
+Carvana,2019,Nissan,Sentra,SV,14290.0,73009,White,Used,3N1AB7AP9KL609079,3006839518,2019 Nissan Sentra,"Used 2019 Nissan Sentra SV with 73009 miles - $14,290",https://www.carvana.com/vehicle/4833905
+Carvana,2025,Nissan,Sentra,SR,23990.0,6537,Blue,Used,3N1AB8DV0SY373022,3006787275,2025 Nissan Sentra,"Used 2025 Nissan Sentra SR with 6537 miles - $23,990",https://www.carvana.com/vehicle/4814415
+Carvana,2024,Nissan,Sentra,SV,17790.0,56058,Blue,Used,3N1AB8CV5RY378812,3006483729,2024 Nissan Sentra,"Used 2024 Nissan Sentra SV with 56058 miles - $17,790",https://www.carvana.com/vehicle/4710419
+Carvana,2017,Nissan,Sentra,SV,15990.0,22392,Blue,Used,3N1AB7AP1HY324128,3006760480,2017 Nissan Sentra,"Used 2017 Nissan Sentra SV with 22392 miles - $15,990",https://www.carvana.com/vehicle/4813495
+Carvana,2022,Nissan,Sentra,S,16790.0,70681,Black,Used,3N1AB8BVXNY219621,3006591774,2022 Nissan Sentra,"Used 2022 Nissan Sentra S with 70681 miles - $16,790",https://www.carvana.com/vehicle/4743409
+Carvana,2022,Nissan,Sentra,SV,17990.0,27129,Gray,Used,3N1AB8CV3NY271445,3006884649,2022 Nissan Sentra,"Used 2022 Nissan Sentra SV with 27129 miles - $17,990",https://www.carvana.com/vehicle/4848616
+Carvana,2023,Nissan,Sentra,SV,19990.0,26830,Red,Used,3N1AB8CV5PY323726,3006786182,2023 Nissan Sentra,"Used 2023 Nissan Sentra SV with 26830 miles - $19,990",https://www.carvana.com/vehicle/4816079
+Carvana,2024,Nissan,Sentra,SV,17790.0,66024,Gray,Used,3N1AB8CVXRY292749,3006522112,2024 Nissan Sentra,"Used 2024 Nissan Sentra SV with 66024 miles - $17,790",https://www.carvana.com/vehicle/4707054
+Carvana,2017,Nissan,Sentra,SV,13590.0,67656,Blue,Used,3N1AB7AP3HY252994,3006811833,2017 Nissan Sentra,"Used 2017 Nissan Sentra SV with 67656 miles - $13,590",https://www.carvana.com/vehicle/4837994
+Carvana,2022,Nissan,Sentra,SV,17590.0,52078,Silver,Used,3N1AB8CV2NY241501,3006788533,2022 Nissan Sentra,"Used 2022 Nissan Sentra SV with 52078 miles - $17,590",https://www.carvana.com/vehicle/4809400
+Carvana,2025,Nissan,Sentra,S,17699.0,30584,Black,Used,3N1AB8BV8SY308163,3006819664,2025 Nissan Sentra,"Used 2025 Nissan Sentra S with 30584 miles - $17,699",https://www.carvana.com/vehicle/4853892
+Carvana,2025,Nissan,Sentra,SV,19790.0,40415,Red,Used,3N1AB8CV8SY286454,3006816648,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 40415 miles - $19,790",https://www.carvana.com/vehicle/4829734
+Carvana,2019,Nissan,Sentra,S,14990.0,68190,Gray,Used,3N1AB7AP7KY318163,3006771287,2019 Nissan Sentra,"Used 2019 Nissan Sentra S with 68190 miles - $14,990",https://www.carvana.com/vehicle/4811947
+Carvana,2019,Nissan,Sentra,SR,18290.0,32183,Red,Used,3N1AB7AP3KY405722,3006555223,2019 Nissan Sentra,"Used 2019 Nissan Sentra SR with 32183 miles - $18,290",https://www.carvana.com/vehicle/4718226
+Carvana,2024,Nissan,Sentra,SV,19990.0,38155,Blue,Used,3N1AB8CV1RY375616,3006744220,2024 Nissan Sentra,"Used 2024 Nissan Sentra SV with 38155 miles - $19,990",https://www.carvana.com/vehicle/4820397
+Carvana,2022,Nissan,Sentra,SR,18290.0,72702,White,Used,3N1AB8DV9NY317858,3006516066,2022 Nissan Sentra,"Used 2022 Nissan Sentra SR with 72702 miles - $18,290",https://www.carvana.com/vehicle/4688240
+Carvana,2021,Nissan,Sentra,SV,19590.0,34947,White,Used,3N1AB8CVXMY265639,3006819898,2021 Nissan Sentra,"Used 2021 Nissan Sentra SV with 34947 miles - $19,590",https://www.carvana.com/vehicle/4829544
+Carvana,2020,Nissan,Sentra,SV,18990.0,31174,Blue,Used,3N1AB8CV1LY272929,3006632008,2020 Nissan Sentra,"Used 2020 Nissan Sentra SV with 31174 miles - $18,990",https://www.carvana.com/vehicle/4774999
+Carvana,2019,Nissan,Sentra,SR,18290.0,30252,Gray,Used,3N1AB7AP8KY289191,3006548284,2019 Nissan Sentra,"Used 2019 Nissan Sentra SR with 30252 miles - $18,290",https://www.carvana.com/vehicle/4724364
+Carvana,2018,Nissan,Sentra,SV,14790.0,65376,Gray,Used,3N1AB7AP9JY238135,2005107003,2018 Nissan Sentra,"Used 2018 Nissan Sentra SV with 65376 miles - $14,790",https://www.carvana.com/vehicle/4604351
+Carvana,2025,Nissan,Sentra,SV,19990.0,35607,Black,Used,3N1AB8CV1SY308407,3006775375,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 35607 miles - $19,990",https://www.carvana.com/vehicle/4806423
+Carvana,2021,Nissan,Sentra,SV,15590.0,101426,Black,Used,3N1AB8CV2MY201952,3006610204,2021 Nissan Sentra,"Used 2021 Nissan Sentra SV with 101426 miles - $15,590",https://www.carvana.com/vehicle/4736962
+Carvana,2025,Nissan,Sentra,S,17399.0,35634,Gray,Used,3N1AB8BVXSY284514,3006878437,2025 Nissan Sentra,"Used 2025 Nissan Sentra S with 35634 miles - $17,399",https://www.carvana.com/vehicle/4859662
+Carvana,2022,Nissan,Sentra,SV,17790.0,55302,Gray,Used,3N1AB8CV9NY244153,3006822818,2022 Nissan Sentra,"Used 2022 Nissan Sentra SV with 55302 miles - $17,790",https://www.carvana.com/vehicle/4834684
+Carvana,2020,Nissan,Sentra,SV,17990.0,47555,White,Used,3N1AB8CV5LY231252,3006689110,2020 Nissan Sentra,"Used 2020 Nissan Sentra SV with 47555 miles - $17,990",https://www.carvana.com/vehicle/4778298
+Carvana,2021,Nissan,Sentra,SV,17990.0,56113,Red,Used,3N1AB8CV5MY216042,3006797162,2021 Nissan Sentra,"Used 2021 Nissan Sentra SV with 56113 miles - $17,990",https://www.carvana.com/vehicle/4817814
+Carvana,2022,Nissan,Sentra,SV,17990.0,55297,White,Used,3N1AB8CV0NY241240,3006741772,2022 Nissan Sentra,"Used 2022 Nissan Sentra SV with 55297 miles - $17,990",https://www.carvana.com/vehicle/4831984
+Carvana,2019,Nissan,Sentra,SV,18590.0,34315,Black,Used,3N1AB7AP5KY204159,3006511992,2019 Nissan Sentra,"Used 2019 Nissan Sentra SV with 34315 miles - $18,590",https://www.carvana.com/vehicle/4712306
+Carvana,2024,Nissan,Sentra,SV,18290.0,54948,Gray,Used,3N1AB8CV4RY332730,3006659243,2024 Nissan Sentra,"Used 2024 Nissan Sentra SV with 54948 miles - $18,290",https://www.carvana.com/vehicle/4761853
+Carvana,2019,Nissan,Sentra,SV,15790.0,58229,Black,Used,3N1AB7AP4KY224404,3006697652,2019 Nissan Sentra,"Used 2019 Nissan Sentra SV with 58229 miles - $15,790",https://www.carvana.com/vehicle/4835489
+Carvana,2022,Nissan,Sentra,SR,17990.0,59689,Black,Used,3N1AB8DV9NY310490,3006371373,2022 Nissan Sentra,"Used 2022 Nissan Sentra SR with 59689 miles - $17,990",https://www.carvana.com/vehicle/4643588
+Carvana,2023,Nissan,Sentra,SV,18790.0,45711,Gray,Used,3N1AB8CV4PY293506,3006789558,2023 Nissan Sentra,"Used 2023 Nissan Sentra SV with 45711 miles - $18,790",https://www.carvana.com/vehicle/4812134
+Carvana,2024,Nissan,Sentra,SV,20990.0,21542,White,Used,3N1AB8CV4RY218517,3006894066,2024 Nissan Sentra,"Used 2024 Nissan Sentra SV with 21542 miles - $20,990",https://www.carvana.com/vehicle/4855769
+Carvana,2017,Nissan,Sentra,SV,15990.0,23267,Blue,Used,3N1AB7AP9HY367857,3006751543,2017 Nissan Sentra,"Used 2017 Nissan Sentra SV with 23267 miles - $15,990",https://www.carvana.com/vehicle/4804845
+Carvana,2024,Nissan,Sentra,SV,18990.0,50776,Gray,Used,3N1AB8CV4RY202365,3006484073,2024 Nissan Sentra,"Used 2024 Nissan Sentra SV with 50776 miles - $18,990",https://www.carvana.com/vehicle/4685366
+Carvana,2022,Nissan,Sentra,SR,18990.0,57595,White,Used,3N1AB8DV0NY210861,3006866176,2022 Nissan Sentra,"Used 2022 Nissan Sentra SR with 57595 miles - $18,990",https://www.carvana.com/vehicle/4848033
+Carvana,2024,Nissan,Sentra,SR,21990.0,41007,Gray,Used,3N1AB8DV4RY295015,3006742069,2024 Nissan Sentra,"Used 2024 Nissan Sentra SR with 41007 miles - $21,990",https://www.carvana.com/vehicle/4790825
+Carvana,2019,Nissan,Sentra,S,17790.0,17383,Gray,Used,3N1AB7AP0KY273440,3006679922,2019 Nissan Sentra,"Used 2019 Nissan Sentra S with 17383 miles - $17,790",https://www.carvana.com/vehicle/4769864
+Carvana,2024,Nissan,Sentra,SR,22990.0,23205,White,Used,3N1AB8DV1RY358006,3006528349,2024 Nissan Sentra,"Used 2024 Nissan Sentra SR with 23205 miles - $22,990",https://www.carvana.com/vehicle/4718491
+Carvana,2022,Nissan,Sentra,SV,17790.0,47159,Silver,Used,3N1AB8CV1NY248598,3006491880,2022 Nissan Sentra,"Used 2022 Nissan Sentra SV with 47159 miles - $17,790",https://www.carvana.com/vehicle/4677452
+Carvana,2025,Nissan,Sentra,SV,20590.0,20134,Gray,Used,3N1AB8CV5SY391601,3006681109,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 20134 miles - $20,590",https://www.carvana.com/vehicle/4772726
+Carvana,2025,Nissan,Sentra,SR,21990.0,20281,Gray,Used,3N1AB8DV0SY206188,3006449620,2025 Nissan Sentra,"Used 2025 Nissan Sentra SR with 20281 miles - $21,990",https://www.carvana.com/vehicle/4675008
+Carvana,2019,Nissan,Sentra,S,16990.0,29828,Blue,Used,3N1AB7AP5KY275605,3006682450,2019 Nissan Sentra,"Used 2019 Nissan Sentra S with 29828 miles - $16,990",https://www.carvana.com/vehicle/4777794
+Carvana,2025,Nissan,Sentra,SV,18418.0,31515,Black,Used,3N1AB8CV8SY329934,3006678324,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 31515 miles - $18,418",https://www.carvana.com/vehicle/4821905
+Carvana,2025,Nissan,Sentra,SV,18790.0,51857,White,Used,3N1AB8CV5SY223862,3006545460,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 51857 miles - $18,790",https://www.carvana.com/vehicle/4752509
+Carvana,2025,Nissan,Sentra,SV,18590.0,57931,White,Used,3N1AB8CV2SY273036,3006499729,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 57931 miles - $18,590",https://www.carvana.com/vehicle/4709194
+Carvana,2025,Nissan,Sentra,SV,19590.0,40710,Gray,Used,3N1AB8CV2SY310814,3006748653,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 40710 miles - $19,590",https://www.carvana.com/vehicle/4825230
+Carvana,2019,Nissan,Sentra,S,14990.0,62844,Silver,Used,3N1AB7AP1KY397135,3006888497,2019 Nissan Sentra,"Used 2019 Nissan Sentra S with 62844 miles - $14,990",https://www.carvana.com/vehicle/4848969
+Carvana,2025,Nissan,Sentra,SV,19990.0,40297,Black,Used,3N1AB8CV6SY284721,3006692244,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 40297 miles - $19,990",https://www.carvana.com/vehicle/4781407
+Carvana,2025,Nissan,Sentra,SV,19990.0,24210,White,Used,3N1AB8CV2SY389157,2005061837,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 24210 miles - $19,990",https://www.carvana.com/vehicle/4569016
+Carvana,2025,Nissan,Sentra,S,18590.0,50290,White,Used,3N1AB8BV8SY224165,3006796365,2025 Nissan Sentra,"Used 2025 Nissan Sentra S with 50290 miles - $18,590",https://www.carvana.com/vehicle/4823570
+Carvana,2025,Nissan,Sentra,SV,19990.0,41091,Red,Used,3N1AB8CVXSY263418,3006864554,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 41091 miles - $19,990",https://www.carvana.com/vehicle/4837981
+Carvana,2024,Nissan,Sentra,SR,22990.0,22467,White,Used,3N1AB8DV6RY318052,3006833981,2024 Nissan Sentra,"Used 2024 Nissan Sentra SR with 22467 miles - $22,990",https://www.carvana.com/vehicle/4849269
+Carvana,2024,Nissan,Sentra,SV,17790.0,58938,Gray,Used,3N1AB8CV7RY244237,3006390364,2024 Nissan Sentra,"Used 2024 Nissan Sentra SV with 58938 miles - $17,790",https://www.carvana.com/vehicle/4650581
+Carvana,2022,Nissan,Sentra,SV,18990.0,33526,Black,Used,3N1AB8CV3NY243452,3006626926,2022 Nissan Sentra,"Used 2022 Nissan Sentra SV with 33526 miles - $18,990",https://www.carvana.com/vehicle/4751642
+Carvana,2019,Nissan,Sentra,SR,16990.0,53101,Gray,Used,3N1AB7AP1KY370226,3006709146,2019 Nissan Sentra,"Used 2019 Nissan Sentra SR with 53101 miles - $16,990",https://www.carvana.com/vehicle/4792213
+Carvana,2023,Nissan,Sentra,SR,19590.0,40406,Blue,Used,3N1AB8DV8PY229578,3006404645,2023 Nissan Sentra,"Used 2023 Nissan Sentra SR with 40406 miles - $19,590",https://www.carvana.com/vehicle/4654335
+Carvana,2020,Nissan,Sentra,S,17590.0,31349,Black,Used,3N1AB8BV8LY310075,3006442289,2020 Nissan Sentra,"Used 2020 Nissan Sentra S with 31349 miles - $17,590",https://www.carvana.com/vehicle/4678951
+Carvana,2019,Nissan,Sentra,SV,13990.0,80240,Black,Used,3N1AB7AP3KY377338,3006372911,2019 Nissan Sentra,"Used 2019 Nissan Sentra SV with 80240 miles - $13,990",https://www.carvana.com/vehicle/4636483
+Carvana,2018,Nissan,Sentra,SV,16790.0,37128,Black,Used,3N1AB7APXJL641828,3006493123,2018 Nissan Sentra,"Used 2018 Nissan Sentra SV with 37128 miles - $16,790",https://www.carvana.com/vehicle/4682431
+Carvana,2023,Nissan,Sentra,SR,19790.0,46215,Blue,Used,3N1AB8DVXPY278085,3006670034,2023 Nissan Sentra,"Used 2023 Nissan Sentra SR with 46215 miles - $19,790",https://www.carvana.com/vehicle/4764798
+Carvana,2023,Nissan,Sentra,SV,19990.0,32262,Black,Used,3N1AB8CV1PY255294,3006793123,2023 Nissan Sentra,"Used 2023 Nissan Sentra SV with 32262 miles - $19,990",https://www.carvana.com/vehicle/4840008
+Carvana,2023,Nissan,Sentra,SV,16590.0,91527,Gray,Used,3N1AB8CV2PY274260,3006615152,2023 Nissan Sentra,"Used 2023 Nissan Sentra SV with 91527 miles - $16,590",https://www.carvana.com/vehicle/4752693
+Carvana,2025,Nissan,Sentra,SV,19149.0,30923,Gray,Used,3N1AB8CV2SY321408,3006596096,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 30923 miles - $19,149",https://www.carvana.com/vehicle/4754113
+Carvana,2026,Nissan,Sentra,SV,23990.0,5320,Black,Used,3N1AB9CV0TY272586,3006858992,2026 Nissan Sentra,"Used 2026 Nissan Sentra SV with 5320 miles - $23,990",https://www.carvana.com/vehicle/4843143
+Carvana,2019,Nissan,Sentra,SV,13290.0,95313,Gray,Used,3N1AB7AP1KY372882,3006689472,2019 Nissan Sentra,"Used 2019 Nissan Sentra SV with 95313 miles - $13,290",https://www.carvana.com/vehicle/4789192
+Carvana,2023,Nissan,Sentra,SV,17990.0,56417,Silver,Used,3N1AB8CV8PY255342,3006731029,2023 Nissan Sentra,"Used 2023 Nissan Sentra SV with 56417 miles - $17,990",https://www.carvana.com/vehicle/4797225
+Carvana,2019,Nissan,Sentra,SV,18790.0,30042,Gray,Used,3N1AB7AP8KY299350,3006608889,2019 Nissan Sentra,"Used 2019 Nissan Sentra SV with 30042 miles - $18,790",https://www.carvana.com/vehicle/4766213
+Carvana,2026,Nissan,Sentra,SR,24990.0,7278,White,Used,3N1AB9DV4TY205407,3006766690,2026 Nissan Sentra,"Used 2026 Nissan Sentra SR with 7278 miles - $24,990",https://www.carvana.com/vehicle/4820813
+Carvana,2017,Nissan,Sentra,SV,12990.0,86126,Silver,Used,3N1AB7AP5HY310782,3006518925,2017 Nissan Sentra,"Used 2017 Nissan Sentra SV with 86126 miles - $12,990",https://www.carvana.com/vehicle/4803334
+Carvana,2022,Nissan,Sentra,SV,17290.0,67841,Black,Used,3N1AB8CV4NY292465,3006402288,2022 Nissan Sentra,"Used 2022 Nissan Sentra SV with 67841 miles - $17,290",https://www.carvana.com/vehicle/4684444
+Carvana,2020,Nissan,Sentra,SV,16990.0,58496,Red,Used,3N1AB8CV0LY229019,3006417663,2020 Nissan Sentra,"Used 2020 Nissan Sentra SV with 58496 miles - $16,990",https://www.carvana.com/vehicle/4657691
+Carvana,2022,Nissan,Sentra,SR,18990.0,60798,Black,Used,3N1AB8DVXNY219602,3006438981,2022 Nissan Sentra,"Used 2022 Nissan Sentra SR with 60798 miles - $18,990",https://www.carvana.com/vehicle/4674571
+Carvana,2025,Nissan,Sentra,SV,21990.0,9543,Red,Used,3N1AB8CV3SY337732,3006872975,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 9543 miles - $21,990",https://www.carvana.com/vehicle/4845545
+Carvana,2018,Nissan,Sentra,SV,15290.0,58665,White,Used,3N1AB7AP4JY229486,2004861245,2018 Nissan Sentra,"Used 2018 Nissan Sentra SV with 58665 miles - $15,290",https://www.carvana.com/vehicle/4422649
+Carvana,2024,Nissan,Sentra,SV,18990.0,48555,Black,Used,3N1AB8CV2RY213185,3006817662,2024 Nissan Sentra,"Used 2024 Nissan Sentra SV with 48555 miles - $18,990",https://www.carvana.com/vehicle/4823409
+Carvana,2025,Nissan,Sentra,S,20990.0,11519,Gray,Used,3N1AB8BV6SY238209,3006874774,2025 Nissan Sentra,"Used 2025 Nissan Sentra S with 11519 miles - $20,990",https://www.carvana.com/vehicle/4850565
+Carvana,2019,Nissan,Sentra,SL,15290.0,77236,Black,Used,3N1AB7APXKY330775,3006692471,2019 Nissan Sentra,"Used 2019 Nissan Sentra SL with 77236 miles - $15,290",https://www.carvana.com/vehicle/4770079
+Carvana,2025,Nissan,Sentra,SV,18990.0,52329,Gray,Used,3N1AB8CV1SY284089,3006868028,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 52329 miles - $18,990",https://www.carvana.com/vehicle/4853907
+Carvana,2022,Nissan,Sentra,SV,17290.0,72575,White,Used,3N1AB8CV2NY221989,3006543801,2022 Nissan Sentra,"Used 2022 Nissan Sentra SV with 72575 miles - $17,290",https://www.carvana.com/vehicle/4711963
+Carvana,2025,Nissan,Sentra,SV,18990.0,51282,White,Used,3N1AB8CV4SY256772,3006868045,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 51282 miles - $18,990",https://www.carvana.com/vehicle/4853345
+Carvana,2024,Nissan,Sentra,S,15990.0,97440,Gray,Used,3N1AB8BV6RY284472,3006553681,2024 Nissan Sentra,"Used 2024 Nissan Sentra S with 97440 miles - $15,990",https://www.carvana.com/vehicle/4734845
+Carvana,2019,Nissan,Sentra,SV,17990.0,41697,Red,Used,3N1AB7AP5KY345670,3006819075,2019 Nissan Sentra,"Used 2019 Nissan Sentra SV with 41697 miles - $17,990",https://www.carvana.com/vehicle/4835608
+Carvana,2017,Nissan,Sentra,S,13590.0,75617,White,Used,3N1AB7AP9HY367843,2005058372,2017 Nissan Sentra,"Used 2017 Nissan Sentra S with 75617 miles - $13,590",https://www.carvana.com/vehicle/4597402
+Carvana,2025,Nissan,Sentra,SV,19599.0,20723,Blue,Used,3N1AB8CV7SY370930,3006770603,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 20723 miles - $19,599",https://www.carvana.com/vehicle/4828337
+Carvana,2014,Nissan,Sentra,SL,14590.0,40836,White,Used,3N1AB7AP8EY276770,3006855435,2014 Nissan Sentra,"Used 2014 Nissan Sentra SL with 40836 miles - $14,590",https://www.carvana.com/vehicle/4841670
+Carvana,2024,Nissan,Sentra,SV,16990.0,75230,White,Used,3N1AB8CV4RY219490,3006874338,2024 Nissan Sentra,"Used 2024 Nissan Sentra SV with 75230 miles - $16,990",https://www.carvana.com/vehicle/4847721
+Carvana,2017,Nissan,Sentra,SR Turbo,17590.0,41931,Black,Used,3N1CB7AP4HY228101,3006653506,2017 Nissan Sentra,"Used 2017 Nissan Sentra SR Turbo with 41931 miles - $17,590",https://www.carvana.com/vehicle/4752789
+Carvana,2016,Nissan,Sentra,S,11590.0,93452,Blue,Used,3N1AB7AP2GY218902,3006403890,2016 Nissan Sentra,"Used 2016 Nissan Sentra S with 93452 miles - $11,590",https://www.carvana.com/vehicle/4647978
+Carvana,2019,Nissan,Sentra,SV,19990.0,21155,Red,Used,3N1AB7AP9KY444122,3006882242,2019 Nissan Sentra,"Used 2019 Nissan Sentra SV with 21155 miles - $19,990",https://www.carvana.com/vehicle/4848854
+Carvana,2022,Nissan,Sentra,SV,19790.0,27548,Black,Used,3N1AB8CV5NY247289,3006710886,2022 Nissan Sentra,"Used 2022 Nissan Sentra SV with 27548 miles - $19,790",https://www.carvana.com/vehicle/4787392
+Carvana,2022,Nissan,Sentra,SR,20990.0,45948,Blue,Used,3N1AB8DV1NY236157,3006855565,2022 Nissan Sentra,"Used 2022 Nissan Sentra SR with 45948 miles - $20,990",https://www.carvana.com/vehicle/4833215
+Carvana,2025,Nissan,Sentra,SR,24590.0,7128,Gray,Used,3N1AB8DV9SY416160,3006740027,2025 Nissan Sentra,"Used 2025 Nissan Sentra SR with 7128 miles - $24,590",https://www.carvana.com/vehicle/4790359
+Carvana,2024,Nissan,Sentra,SV,18990.0,55139,Black,Used,3N1AB8CV1RY204994,3006698141,2024 Nissan Sentra,"Used 2024 Nissan Sentra SV with 55139 miles - $18,990",https://www.carvana.com/vehicle/4771458
+Carvana,2020,Nissan,Sentra,SV,15990.0,92630,Black,Used,3N1AB8CV8LY214493,3006825919,2020 Nissan Sentra,"Used 2020 Nissan Sentra SV with 92630 miles - $15,990",https://www.carvana.com/vehicle/4834741
+Carvana,2021,Nissan,Sentra,SV,19990.0,27485,Gray,Used,3N1AB8CV0MY286287,3006742253,2021 Nissan Sentra,"Used 2021 Nissan Sentra SV with 27485 miles - $19,990",https://www.carvana.com/vehicle/4846508
+Carvana,2025,Nissan,Sentra,S,19990.0,18442,Black,Used,3N1AB8BV4SY333755,3006618419,2025 Nissan Sentra,"Used 2025 Nissan Sentra S with 18442 miles - $19,990",https://www.carvana.com/vehicle/4758692
+Carvana,2017,Nissan,Sentra,S,12590.0,93376,Silver,Used,3N1AB7AP6HY367153,3006794282,2017 Nissan Sentra,"Used 2017 Nissan Sentra S with 93376 miles - $12,590",https://www.carvana.com/vehicle/4810312
+Carvana,2023,Nissan,Sentra,SV,20590.0,29607,Gray,Used,3N1AB8CV3PY239159,3006885827,2023 Nissan Sentra,"Used 2023 Nissan Sentra SV with 29607 miles - $20,590",https://www.carvana.com/vehicle/4852188
+Carvana,2022,Nissan,Sentra,SR,17590.0,94712,Black,Used,3N1AB8DV6NY211769,3006679789,2022 Nissan Sentra,"Used 2022 Nissan Sentra SR with 94712 miles - $17,590",https://www.carvana.com/vehicle/4802192
+Carvana,2021,Nissan,Sentra,S,20990.0,8263,Black,Used,3N1AB8BV1MY211843,3006589224,2021 Nissan Sentra,"Used 2021 Nissan Sentra S with 8263 miles - $20,990",https://www.carvana.com/vehicle/4746682
+Carvana,2018,Nissan,Sentra,S,13590.0,83646,White,Used,3N1AB7AP9JY233890,3006649135,2018 Nissan Sentra,"Used 2018 Nissan Sentra S with 83646 miles - $13,590",https://www.carvana.com/vehicle/4750501
+Carvana,2025,Nissan,Sentra,SV,18990.0,42097,Black,Used,3N1AB8CV5SY285942,3006868061,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 42097 miles - $18,990",https://www.carvana.com/vehicle/4854079
+Carvana,2026,Nissan,Sentra,SR,24990.0,3797,Black,Used,3N1AB9DV2TY251639,3006664484,2026 Nissan Sentra,"Used 2026 Nissan Sentra SR with 3797 miles - $24,990",https://www.carvana.com/vehicle/4769278
+Carvana,2020,Nissan,Sentra,SV,17990.0,55993,White,Used,3N1AB8CV4LY230447,3006564607,2020 Nissan Sentra,"Used 2020 Nissan Sentra SV with 55993 miles - $17,990",https://www.carvana.com/vehicle/4720325
+Carvana,2025,Nissan,Sentra,S,19590.0,30249,Gray,Used,3N1AB8BV2SY267576,2005087122,2025 Nissan Sentra,"Used 2025 Nissan Sentra S with 30249 miles - $19,590",https://www.carvana.com/vehicle/4586684
+Carvana,2017,Nissan,Sentra,S,12990.0,85206,Gray,Used,3N1AB7AP5HY249403,3006819024,2017 Nissan Sentra,"Used 2017 Nissan Sentra S with 85206 miles - $12,990",https://www.carvana.com/vehicle/4834709
+Carvana,2024,Nissan,Sentra,S,15990.0,84515,Gray,Used,3N1AB8BV5RY290120,3006833877,2024 Nissan Sentra,"Used 2024 Nissan Sentra S with 84515 miles - $15,990",https://www.carvana.com/vehicle/4830883
+Carvana,2022,Nissan,Sentra,SV,16990.0,85517,Silver,Used,3N1AB8CV7NY226721,3006468936,2022 Nissan Sentra,"Used 2022 Nissan Sentra SV with 85517 miles - $16,990",https://www.carvana.com/vehicle/4723246
+Carvana,2020,Nissan,Sentra,SV,17990.0,60608,Gray,Used,3N1AB8CV5LY250707,3006861893,2020 Nissan Sentra,"Used 2020 Nissan Sentra SV with 60608 miles - $17,990",https://www.carvana.com/vehicle/4838488
+Carvana,2025,Nissan,Sentra,SV,20590.0,37283,White,Used,3N1AB8CV6SY293242,3006890979,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 37283 miles - $20,590",https://www.carvana.com/vehicle/4848066
+Carvana,2019,Nissan,Sentra,S,12990.0,85122,Blue,Used,3N1AB7AP7KY412396,3006664373,2019 Nissan Sentra,"Used 2019 Nissan Sentra S with 85122 miles - $12,990",https://www.carvana.com/vehicle/4800118
+Carvana,2015,Nissan,Sentra,SL,9990.0,123698,Black,Used,3N1AB7AP0FY313750,3006857682,2015 Nissan Sentra,"Used 2015 Nissan Sentra SL with 123698 miles - $9,990",https://www.carvana.com/vehicle/4839185
+Carvana,2021,Nissan,Sentra,SR,18990.0,58254,White,Used,3N1AB8DV8MY266383,3006716418,2021 Nissan Sentra,"Used 2021 Nissan Sentra SR with 58254 miles - $18,990",https://www.carvana.com/vehicle/4829415
+Carvana,2019,Nissan,Sentra,SR Turbo,15290.0,79588,Gray,Used,3N1CB7AP2KY259290,3006650304,2019 Nissan Sentra,"Used 2019 Nissan Sentra SR Turbo with 79588 miles - $15,290",https://www.carvana.com/vehicle/4799014
+Carvana,2019,Nissan,Sentra,S,15290.0,59381,Blue,Used,3N1AB7APXKY252028,3006522223,2019 Nissan Sentra,"Used 2019 Nissan Sentra S with 59381 miles - $15,290",https://www.carvana.com/vehicle/4708785
+Carvana,2025,Nissan,Sentra,SV,21590.0,16387,Gray,Used,3N1AB8CV3SY380032,3006888539,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 16387 miles - $21,590",https://www.carvana.com/vehicle/4847627
+Carvana,2025,Nissan,Sentra,SV,17995.0,27481,White,Used,3N1AB8CV8SY394234,3006494824,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 27481 miles - $17,995",https://www.carvana.com/vehicle/4693787
+Carvana,2025,Nissan,Sentra,SV,18499.0,28455,Blue,Used,3N1AB8CV1SY327524,3006579509,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 28455 miles - $18,499",https://www.carvana.com/vehicle/4740575
+Carvana,2025,Nissan,Sentra,SV,17676.0,33849,Gray,Used,3N1AB8CV7SY365257,3006632919,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 33849 miles - $17,676",https://www.carvana.com/vehicle/4756537
+Carvana,2025,Nissan,Sentra,SV,17762.0,31946,Blue,Used,3N1AB8CV7SY372421,3006401698,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 31946 miles - $17,762",https://www.carvana.com/vehicle/4651903
+Carvana,2025,Nissan,Sentra,S,17098.0,37210,Gray,Used,3N1AB8BV8SY302296,3006463755,2025 Nissan Sentra,"Used 2025 Nissan Sentra S with 37210 miles - $17,098",https://www.carvana.com/vehicle/4671312
+Carvana,2025,Nissan,Sentra,SV,17809.0,37931,White,Used,3N1AB8CV9SY329733,3006533530,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 37931 miles - $17,809",https://www.carvana.com/vehicle/4724225
+Carvana,2025,Nissan,Sentra,SV,18499.0,22362,White,Used,3N1AB8CV8SY382715,3006549550,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 22362 miles - $18,499",https://www.carvana.com/vehicle/4753650
+Carvana,2025,Nissan,Sentra,SV,18334.0,25795,White,Used,3N1AB8CV4SY330093,3006463740,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 25795 miles - $18,334",https://www.carvana.com/vehicle/4732277
+Carvana,2025,Nissan,Sentra,SV,18399.0,24836,Gray,Used,3N1AB8CV3SY380886,3006787950,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 24836 miles - $18,399",https://www.carvana.com/vehicle/4809118
+Carvana,2025,Nissan,Sentra,SV,17499.0,38340,Blue,Used,3N1AB8CVXSY300807,3006503169,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 38340 miles - $17,499",https://www.carvana.com/vehicle/4691658
+Carvana,2025,Nissan,Sentra,SV,18398.0,24284,Blue,Used,3N1AB8CV2SY386453,3006392394,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 24284 miles - $18,398",https://www.carvana.com/vehicle/4663252
+Carvana,2025,Nissan,Sentra,S,18198.0,27657,White,Used,3N1AB8BV3SY311830,3006486341,2025 Nissan Sentra,"Used 2025 Nissan Sentra S with 27657 miles - $18,198",https://www.carvana.com/vehicle/4708397
+Carvana,2025,Nissan,Sentra,SV,18698.0,10248,Red,Used,3N1AB8CV8SY395853,3006614748,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 10248 miles - $18,698",https://www.carvana.com/vehicle/4742309
+Carvana,2025,Nissan,Sentra,S,17698.0,27937,White,Used,3N1AB8BV8SY308535,3006455662,2025 Nissan Sentra,"Used 2025 Nissan Sentra S with 27937 miles - $17,698",https://www.carvana.com/vehicle/4678360
+Carvana,2025,Nissan,Sentra,SV,18499.0,14202,Red,Used,3N1AB8CV4SY396711,3006533663,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 14202 miles - $18,499",https://www.carvana.com/vehicle/4740333
+Carvana,2025,Nissan,Sentra,S,17449.0,32989,White,Used,3N1AB8BV7SY316044,3006533584,2025 Nissan Sentra,"Used 2025 Nissan Sentra S with 32989 miles - $17,449",https://www.carvana.com/vehicle/4720144
+Carvana,2025,Nissan,Sentra,SV,18099.0,25112,Blue,Used,3N1AB8CV0SY397385,3006878398,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 25112 miles - $18,099",https://www.carvana.com/vehicle/4861682
+Carvana,2025,Nissan,Sentra,SV,17995.0,25840,Red,Used,3N1AB8CV2SY401727,3006614751,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 25840 miles - $17,995",https://www.carvana.com/vehicle/4760285
+Carvana,2025,Nissan,Sentra,SV,17799.0,27551,Blue,Used,3N1AB8CV8SY358642,3006800578,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 27551 miles - $17,799",https://www.carvana.com/vehicle/4819688
+Carvana,2025,Nissan,Sentra,S,18499.0,29764,White,Used,3N1AB8BV7SY307778,3006383052,2025 Nissan Sentra,"Used 2025 Nissan Sentra S with 29764 miles - $18,499",https://www.carvana.com/vehicle/4660623
+Carvana,2025,Nissan,Sentra,SV,19649.0,17521,Black,Used,3N1AB8CV9SY396770,3006589030,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 17521 miles - $19,649",https://www.carvana.com/vehicle/4783621
+Carvana,2025,Nissan,Sentra,S,17449.0,34131,Gray,Used,3N1AB8BV7SY308400,3006571813,2025 Nissan Sentra,"Used 2025 Nissan Sentra S with 34131 miles - $17,449",https://www.carvana.com/vehicle/4760372
+Carvana,2025,Nissan,Sentra,SV,19649.0,17530,Blue,Used,3N1AB8CV9SY397157,3006511540,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 17530 miles - $19,649",https://www.carvana.com/vehicle/4713664
+Carvana,2025,Nissan,Sentra,SV,16995.0,42753,Red,Used,3N1AB8CV5SY292096,3006588977,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 42753 miles - $16,995",https://www.carvana.com/vehicle/4793274
+Carvana,2025,Nissan,Sentra,SV,17298.0,41575,Black,Used,3N1AB8CV8SY379653,3006647293,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 41575 miles - $17,298",https://www.carvana.com/vehicle/4775808
+Carvana,2025,Nissan,Sentra,SV,19249.0,26523,Blue,Used,3N1AB8CV9SY316772,3006401707,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 26523 miles - $19,249",https://www.carvana.com/vehicle/4667489
+Carvana,2025,Nissan,Sentra,SV,18995.0,30602,Black,Used,3N1AB8CV1SY364265,3006401706,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 30602 miles - $18,995",https://www.carvana.com/vehicle/4670118
+Carvana,2025,Nissan,Sentra,SV,19199.0,30122,Gray,Used,3N1AB8CV3SY361092,3006770587,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 30122 miles - $19,199",https://www.carvana.com/vehicle/4833595
+Carvana,2024,Nissan,Sentra,SV,17398.0,42810,Gray,Used,3N1AB8CV9RY373936,3006474890,2024 Nissan Sentra,"Used 2024 Nissan Sentra SV with 42810 miles - $17,398",https://www.carvana.com/vehicle/4709412
+Carvana,2026,Nissan,Sentra,SR,25590.0,2026,White,Used,3N1AB9DVXTY217450,3006807164,2026 Nissan Sentra,"Used 2026 Nissan Sentra SR with 2026 miles - $25,590",https://www.carvana.com/vehicle/4836596
+Carvana,2023,Nissan,Sentra,S,19990.0,12318,Silver,Used,3N1AB8BV2PY290704,3006845522,2023 Nissan Sentra,"Used 2023 Nissan Sentra S with 12318 miles - $19,990",https://www.carvana.com/vehicle/4835464
+Carvana,2026,Nissan,Sentra,S,22990.0,661,Gray,Used,3N1AB9BV4TY267831,3006897528,2026 Nissan Sentra,"Used 2026 Nissan Sentra S with 661 miles - $22,990",https://www.carvana.com/vehicle/4850074
+Carvana,2016,Nissan,Sentra,S,13290.0,68483,Gray,Used,3N1AB7AP3GY254520,3006488475,2016 Nissan Sentra,"Used 2016 Nissan Sentra S with 68483 miles - $13,290",https://www.carvana.com/vehicle/4723649
+Carvana,2020,Nissan,Sentra,SV,14790.0,100755,Gray,Used,3N1AB8CV1LY289939,3006609995,2020 Nissan Sentra,"Used 2020 Nissan Sentra SV with 100755 miles - $14,790",https://www.carvana.com/vehicle/4740256
+Carvana,2017,Nissan,Sentra,S,10790.0,123418,Silver,Used,3N1AB7AP3HY210938,3006428906,2017 Nissan Sentra,"Used 2017 Nissan Sentra S with 123418 miles - $10,790",https://www.carvana.com/vehicle/4656343
+Carvana,2025,Nissan,Sentra,SV,18099.0,20352,Blue,Used,3N1AB8CV0SY396219,3006835633,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 20352 miles - $18,099",https://www.carvana.com/vehicle/4852024
+Carvana,2024,Nissan,Sentra,SR,22990.0,17014,White,Used,3N1AB8DV1RY261601,3006707993,2024 Nissan Sentra,"Used 2024 Nissan Sentra SR with 17014 miles - $22,990",https://www.carvana.com/vehicle/4790122
+Carvana,2020,Nissan,Sentra,SV,17990.0,55414,White,Used,3N1AB8CV9LY300833,3006681732,2020 Nissan Sentra,"Used 2020 Nissan Sentra SV with 55414 miles - $17,990",https://www.carvana.com/vehicle/4774015
+Carvana,2019,Nissan,Sentra,SV,17990.0,37624,Black,Used,3N1AB7AP0KY305125,3006795465,2019 Nissan Sentra,"Used 2019 Nissan Sentra SV with 37624 miles - $17,990",https://www.carvana.com/vehicle/4843694
+Carvana,2024,Nissan,Sentra,SV,17990.0,67235,White,Used,3N1AB8CV2RY318289,3006802998,2024 Nissan Sentra,"Used 2024 Nissan Sentra SV with 67235 miles - $17,990",https://www.carvana.com/vehicle/4831315
+Carvana,2020,Nissan,Sentra,SV,14590.0,113433,Black,Used,3N1AB8CV5LY234149,3006874645,2020 Nissan Sentra,"Used 2020 Nissan Sentra SV with 113433 miles - $14,590",https://www.carvana.com/vehicle/4842583
+Carvana,2020,Nissan,Sentra,SV,18990.0,40675,Gray,Used,3N1AB8CV1LY288922,3006468616,2020 Nissan Sentra,"Used 2020 Nissan Sentra SV with 40675 miles - $18,990",https://www.carvana.com/vehicle/4671586
+Carvana,2025,Nissan,Sentra,SV,19990.0,47107,White,Used,3N1AB8CV9SY299424,3006588814,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 47107 miles - $19,990",https://www.carvana.com/vehicle/4755300
+Carvana,2017,Nissan,Sentra,SV,12590.0,95789,Blue,Used,3N1AB7AP0HY328011,3006857830,2017 Nissan Sentra,"Used 2017 Nissan Sentra SV with 95789 miles - $12,590",https://www.carvana.com/vehicle/4857426
+Carvana,2019,Nissan,Sentra,SR,14990.0,71907,Gray,Used,3N1AB7APXKY427099,3006824814,2019 Nissan Sentra,"Used 2019 Nissan Sentra SR with 71907 miles - $14,990",https://www.carvana.com/vehicle/4841592
+Carvana,2019,Nissan,Sentra,S,11990.0,112602,Blue,Used,3N1AB7AP8KY239858,3006522388,2019 Nissan Sentra,"Used 2019 Nissan Sentra S with 112602 miles - $11,990",https://www.carvana.com/vehicle/4707511
+Carvana,2020,Nissan,Sentra,SV,18990.0,46511,White,Used,3N1AB8CV4LY300108,3006797392,2020 Nissan Sentra,"Used 2020 Nissan Sentra SV with 46511 miles - $18,990",https://www.carvana.com/vehicle/4823780
+Carvana,2018,Nissan,Sentra,SV,14590.0,72001,Gray,Used,3N1AB7AP5JL620210,3006847147,2018 Nissan Sentra,"Used 2018 Nissan Sentra SV with 72001 miles - $14,590",https://www.carvana.com/vehicle/4836761
+Carvana,2025,Nissan,Sentra,SV,18749.0,39606,Red,Used,3N1AB8CV7SY287613,3006557609,2025 Nissan Sentra,"Used 2025 Nissan Sentra SV with 39606 miles - $18,749",https://www.carvana.com/vehicle/4770191
+Carvana,2019,Nissan,Sentra,S,11590.0,117358,Black,Used,3N1AB7AP8KY376721,3006841944,2019 Nissan Sentra,"Used 2019 Nissan Sentra S with 117358 miles - $11,590",https://www.carvana.com/vehicle/4857097
+Carvana,2024,Nissan,Sentra,SV,17590.0,71674,Black,Used,3N1AB8CV1RY219642,3006872973,2024 Nissan Sentra,"Used 2024 Nissan Sentra SV with 71674 miles - $17,590",https://www.carvana.com/vehicle/4849034
+Carvana,2022,Nissan,Sentra,S,18990.0,47025,Black,Used,3N1AB8BV4NY234972,2005086662,2022 Nissan Sentra,"Used 2022 Nissan Sentra S with 47025 miles - $18,990",https://www.carvana.com/vehicle/4582008
+Carvana,2018,Nissan,Sentra,SV,11990.0,109284,Red,Used,3N1AB7AP1JY215657,3006840846,2018 Nissan Sentra,"Used 2018 Nissan Sentra SV with 109284 miles - $11,990",https://www.carvana.com/vehicle/4828673
+Carvana,2024,Nissan,Sentra,S,16990.0,72328,Black,Used,3N1AB8BV3RY202780,3006865876,2024 Nissan Sentra,"Used 2024 Nissan Sentra S with 72328 miles - $16,990",https://www.carvana.com/vehicle/4843788
+Carvana,2021,Nissan,Sentra,SR,17590.0,78464,Red,Used,3N1AB8DV7MY216154,3006865877,2021 Nissan Sentra,"Used 2021 Nissan Sentra SR with 78464 miles - $17,590",https://www.carvana.com/vehicle/4847364
+Carvana,2023,Nissan,Sentra,SR,19990.0,62500,Black,Used,3N1AB8DV6PY237114,3006881321,2023 Nissan Sentra,"Used 2023 Nissan Sentra SR with 62500 miles - $19,990",https://www.carvana.com/vehicle/4856417
+Carvana,2024,Nissan,Sentra,SR,17590.0,91605,Black,Used,3N1AB8DV4RY241973,3006869264,2024 Nissan Sentra,"Used 2024 Nissan Sentra SR with 91605 miles - $17,590",https://www.carvana.com/vehicle/4845755
+Carvana,2019,Nissan,Sentra,S,13590.0,80607,Gray,Used,3N1AB7AP3KY406689,3006841429,2019 Nissan Sentra,"Used 2019 Nissan Sentra S with 80607 miles - $13,590",https://www.carvana.com/vehicle/4831737
+Carvana,2017,Nissan,Sentra,SR,14990.0,64768,Silver,Used,3N1AB7AP4HY344129,3006439023,2017 Nissan Sentra,"Used 2017 Nissan Sentra SR with 64768 miles - $14,990",https://www.carvana.com/vehicle/4666212
+Carvana,2019,Nissan,Sentra,S,15990.0,58856,Gray,Used,3N1AB7AP5KY277791,3006771573,2019 Nissan Sentra,"Used 2019 Nissan Sentra S with 58856 miles - $15,990",https://www.carvana.com/vehicle/4801480
+Carvana,2017,Nissan,Rogue,SV,14990.0,89371,White,Used,5N1AT2MV7HC759232,2005031979,2017 Nissan Rogue,"Used 2017 Nissan Rogue SV with 89371 miles - $14,990",https://www.carvana.com/vehicle/4547746
+Carvana,2024,Nissan,Rogue,S,19590.0,55687,Silver,Used,5N1BT3AB2RC704662,3006685267,2024 Nissan Rogue,"Used 2024 Nissan Rogue S with 55687 miles - $19,590",https://www.carvana.com/vehicle/4807922
+Carvana,2023,Nissan,Rogue,SL,20990.0,71783,Red,Used,5N1BT3CA5PC802053,3006655431,2023 Nissan Rogue,"Used 2023 Nissan Rogue SL with 71783 miles - $20,990",https://www.carvana.com/vehicle/4778508
+Carvana,2018,Nissan,Rogue,SL,21590.0,19930,White,Used,JN8AT2MV9JW346144,3006647535,2018 Nissan Rogue,"Used 2018 Nissan Rogue SL with 19930 miles - $21,590",https://www.carvana.com/vehicle/4748563
+Carvana,2017,Nissan,Rogue,S,13990.0,97981,Red,Used,JN8AT2MV2HW267117,3006672410,2017 Nissan Rogue,"Used 2017 Nissan Rogue S with 97981 miles - $13,990",https://www.carvana.com/vehicle/4776719
+Carvana,2024,Nissan,Rogue,S,19590.0,60861,Black,Used,5N1BT3AA1RC758168,3006706237,2024 Nissan Rogue,"Used 2024 Nissan Rogue S with 60861 miles - $19,590",https://www.carvana.com/vehicle/4802226
+Carvana,2021,Nissan,Rogue,Platinum,22590.0,70519,Gray,Used,JN8AT3DD6MW303527,3006845364,2021 Nissan Rogue,"Used 2021 Nissan Rogue Platinum with 70519 miles - $22,590",https://www.carvana.com/vehicle/4832551
+Carvana,2019,Nissan,Rogue,SV,16990.0,85240,Black,Used,JN8AT2MV8KW378164,3006846418,2019 Nissan Rogue,"Used 2019 Nissan Rogue SV with 85240 miles - $16,990",https://www.carvana.com/vehicle/4843812
+Carvana,2021,Nissan,Rogue,SV,21990.0,43696,Red,Used,JN8AT3BB6MW235120,3006879802,2021 Nissan Rogue,"Used 2021 Nissan Rogue SV with 43696 miles - $21,990",https://www.carvana.com/vehicle/4846184
+Carvana,2023,Nissan,Rogue,S,18990.0,53242,Blue,Used,5N1BT3AA2PC898274,3006568049,2023 Nissan Rogue,"Used 2023 Nissan Rogue S with 53242 miles - $18,990",https://www.carvana.com/vehicle/4733848
+Carvana,2019,Nissan,Rogue,SV,14790.0,102292,Gray,Used,JN8AT2MV5KW384360,3006610607,2019 Nissan Rogue,"Used 2019 Nissan Rogue SV with 102292 miles - $14,790",https://www.carvana.com/vehicle/4738969
+Carvana,2025,Nissan,Rogue,SV,21590.0,42339,Black,Used,5N1BT3BA7SC836098,3006672406,2025 Nissan Rogue,"Used 2025 Nissan Rogue SV with 42339 miles - $21,590",https://www.carvana.com/vehicle/4778483
+Carvana,2023,Nissan,Rogue,Platinum,27990.0,13173,Gray,Used,JN8BT3DC2PW106936,3006574643,2023 Nissan Rogue,"Used 2023 Nissan Rogue Platinum with 13173 miles - $27,990",https://www.carvana.com/vehicle/4729424
+Carvana,2025,Nissan,Rogue,SV,20590.0,40300,Blue,Used,5N1BT3BA2SC810850,3006614283,2025 Nissan Rogue,"Used 2025 Nissan Rogue SV with 40300 miles - $20,590",https://www.carvana.com/vehicle/4742332
+Carvana,2023,Nissan,Rogue,S,18590.0,63648,White,Used,5N1BT3AB4PC933728,3006785799,2023 Nissan Rogue,"Used 2023 Nissan Rogue S with 63648 miles - $18,590",https://www.carvana.com/vehicle/4825275
+Carvana,2025,Nissan,Rogue,SV,19990.0,51606,Gray,Used,5N1BT3BA8SC823764,3006750565,2025 Nissan Rogue,"Used 2025 Nissan Rogue SV with 51606 miles - $19,990",https://www.carvana.com/vehicle/4822514
+Carvana,2026,Nissan,Rogue,SV,24099.0,16798,White,Used,5N1BT3BB4TC751018,3006752664,2026 Nissan Rogue,"Used 2026 Nissan Rogue SV with 16798 miles - $24,099",https://www.carvana.com/vehicle/4822041
+Carvana,2026,Nissan,Rogue,S,26990.0,2732,White,Used,5N1BT3AB5TC678484,3006806280,2026 Nissan Rogue,"Used 2026 Nissan Rogue S with 2732 miles - $26,990",https://www.carvana.com/vehicle/4821000
+Carvana,2020,Nissan,Rogue,SV,19990.0,25345,White,Used,JN8AT2MVXLW131231,3006492579,2020 Nissan Rogue,"Used 2020 Nissan Rogue SV with 25345 miles - $19,990",https://www.carvana.com/vehicle/4687970
+Carvana,2025,Nissan,Rogue,S,23990.0,17634,Red,Used,5N1BT3AA7SC869118,3006874391,2025 Nissan Rogue,"Used 2025 Nissan Rogue S with 17634 miles - $23,990",https://www.carvana.com/vehicle/4852481
+Carvana,2024,Nissan,Rogue,S,18590.0,67243,Gray,Used,5N1BT3AB5RC704090,3006759740,2024 Nissan Rogue,"Used 2024 Nissan Rogue S with 67243 miles - $18,590",https://www.carvana.com/vehicle/4815559
+Carvana,2023,Nissan,Rogue,S,21590.0,17820,Gray,Used,5N1BT3AB3PC803133,3006489038,2023 Nissan Rogue,"Used 2023 Nissan Rogue S with 17820 miles - $21,590",https://www.carvana.com/vehicle/4752515
+Carvana,2023,Nissan,Rogue,SV,22590.0,17513,Silver,Used,JN8BT3BB9PW489865,3006691331,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 17513 miles - $22,590",https://www.carvana.com/vehicle/4776129
+Carvana,2023,Nissan,Rogue,SV,20990.0,31875,Silver,Used,5N1BT3BB1PC860316,3006768191,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 31875 miles - $20,990",https://www.carvana.com/vehicle/4824364
+Carvana,2024,Nissan,Rogue,SV,21590.0,41826,Silver,Used,5N1BT3BB6RC703450,3006691126,2024 Nissan Rogue,"Used 2024 Nissan Rogue SV with 41826 miles - $21,590",https://www.carvana.com/vehicle/4778875
+Carvana,2024,Nissan,Rogue,S,18990.0,62221,Silver,Used,5N1BT3AA8RC727483,3006705091,2024 Nissan Rogue,"Used 2024 Nissan Rogue S with 62221 miles - $18,990",https://www.carvana.com/vehicle/4814879
+Carvana,2024,Nissan,Rogue,SV,23990.0,16544,White,Used,JN8BT3BB2RW445659,3006814227,2024 Nissan Rogue,"Used 2024 Nissan Rogue SV with 16544 miles - $23,990",https://www.carvana.com/vehicle/4843311
+Carvana,2019,Nissan,Rogue,SV,14990.0,98751,Black,Used,JN8AT2MV7KW397062,3006863744,2019 Nissan Rogue,"Used 2019 Nissan Rogue SV with 98751 miles - $14,990",https://www.carvana.com/vehicle/4847811
+Carvana,2023,Nissan,Rogue,S,18990.0,67200,Black,Used,5N1BT3AB6PC936355,3006756604,2023 Nissan Rogue,"Used 2023 Nissan Rogue S with 67200 miles - $18,990",https://www.carvana.com/vehicle/4809435
+Carvana,2018,Nissan,Rogue,SL,15990.0,94191,White,Used,JN8AT2MT0JW490177,3006534121,2018 Nissan Rogue,"Used 2018 Nissan Rogue SL with 94191 miles - $15,990",https://www.carvana.com/vehicle/4706839
+Carvana,2023,Nissan,Rogue,SV,22590.0,16133,White,Used,JN8BT3BB5PW493105,3006784191,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 16133 miles - $22,590",https://www.carvana.com/vehicle/4819049
+Carvana,2024,Nissan,Rogue,SV,18990.0,65683,Silver,Used,5N1BT3BAXRC698793,3006800015,2024 Nissan Rogue,"Used 2024 Nissan Rogue SV with 65683 miles - $18,990",https://www.carvana.com/vehicle/4842495
+Carvana,2021,Nissan,Rogue,SV,17990.0,85336,Silver,Used,JN8AT3BB9MW235953,3006756730,2021 Nissan Rogue,"Used 2021 Nissan Rogue SV with 85336 miles - $17,990",https://www.carvana.com/vehicle/4813035
+Carvana,2023,Nissan,Rogue,SV,21590.0,21436,Silver,Used,JN8BT3BB6PW486356,3006601331,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 21436 miles - $21,590",https://www.carvana.com/vehicle/4741259
+Carvana,2024,Nissan,Rogue,S,18990.0,53325,White,Used,5N1BT3AA3RC671842,3006481492,2024 Nissan Rogue,"Used 2024 Nissan Rogue S with 53325 miles - $18,990",https://www.carvana.com/vehicle/4740802
+Carvana,2023,Nissan,Rogue,SV,22990.0,14320,White,Used,5N1BT3BB7PC876603,3006814168,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 14320 miles - $22,990",https://www.carvana.com/vehicle/4843148
+Carvana,2023,Nissan,Rogue,SV (2023.5),22590.0,19237,White,Used,5N1BT3BBXPC880547,3006784149,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV (2023.5) with 19237 miles - $22,590",https://www.carvana.com/vehicle/4821055
+Carvana,2020,Nissan,Rogue,SV,16990.0,66608,Black,Used,KNMAT2MT8LP521183,2004975283,2020 Nissan Rogue,"Used 2020 Nissan Rogue SV with 66608 miles - $16,990",https://www.carvana.com/vehicle/4519568
+Carvana,2023,Nissan,Rogue,SV,21990.0,19234,Silver,Used,5N1BT3BB2PC819502,3006627499,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 19234 miles - $21,990",https://www.carvana.com/vehicle/4756686
+Carvana,2023,Nissan,Rogue,SV,22990.0,15493,White,Used,5N1BT3BB9PC876604,3006784146,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 15493 miles - $22,990",https://www.carvana.com/vehicle/4815124
+Carvana,2019,Nissan,Rogue,SV,15590.0,98380,Black,Used,JN8AT2MV2KW380346,3006853655,2019 Nissan Rogue,"Used 2019 Nissan Rogue SV with 98380 miles - $15,590",https://www.carvana.com/vehicle/4840231
+Carvana,2024,Nissan,Rogue,S,18990.0,58879,Gray,Used,5N1BT3AA8RC707203,3006759405,2024 Nissan Rogue,"Used 2024 Nissan Rogue S with 58879 miles - $18,990",https://www.carvana.com/vehicle/4817804
+Carvana,2025,Nissan,Rogue,SV,20099.0,41900,Silver,Used,5N1BT3BA0SC777959,3006693435,2025 Nissan Rogue,"Used 2025 Nissan Rogue SV with 41900 miles - $20,099",https://www.carvana.com/vehicle/4782793
+Carvana,2019,Nissan,Rogue,SV,15990.0,77620,White,Used,JN8AT2MV9KW380666,3006790399,2019 Nissan Rogue,"Used 2019 Nissan Rogue SV with 77620 miles - $15,990",https://www.carvana.com/vehicle/4848830
+Carvana,2023,Nissan,Rogue,S,18590.0,61814,Red,Used,5N1BT3AB8PC776916,3006638496,2023 Nissan Rogue,"Used 2023 Nissan Rogue S with 61814 miles - $18,590",https://www.carvana.com/vehicle/4769735
+Carvana,2023,Nissan,Rogue,S,19990.0,38068,Gray,Used,5N1BT3AB3PC820014,3006303720,2023 Nissan Rogue,"Used 2023 Nissan Rogue S with 38068 miles - $19,990",https://www.carvana.com/vehicle/4643927
+Carvana,2025,Nissan,Rogue,SV,20399.0,29946,Blue,Used,5N1BT3BA4SC832946,3006852037,2025 Nissan Rogue,"Used 2025 Nissan Rogue SV with 29946 miles - $20,399",https://www.carvana.com/vehicle/4852756
+Carvana,2018,Nissan,Rogue,S,13590.0,105697,White,Used,5N1AT2MT2JC720407,2004586122,2018 Nissan Rogue,"Used 2018 Nissan Rogue S with 105697 miles - $13,590",https://www.carvana.com/vehicle/4255772
+Carvana,2021,Nissan,Rogue,SV,16990.0,93626,Black,Used,5N1AT3BB9MC750511,3006631662,2021 Nissan Rogue,"Used 2021 Nissan Rogue SV with 93626 miles - $16,990",https://www.carvana.com/vehicle/4773140
+Carvana,2023,Nissan,Rogue,SV,20990.0,48012,White,Used,5N1BT3BB9PC874786,3006786200,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 48012 miles - $20,990",https://www.carvana.com/vehicle/4814838
+Carvana,2018,Nissan,Rogue,SV,16990.0,50787,Black,Used,KNMAT2MV0JP601012,3006344717,2018 Nissan Rogue,"Used 2018 Nissan Rogue SV with 50787 miles - $16,990",https://www.carvana.com/vehicle/4617667
+Carvana,2023,Nissan,Rogue,SV,20990.0,27530,Gray,Used,JN8BT3BB5PW486395,3006756733,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 27530 miles - $20,990",https://www.carvana.com/vehicle/4819520
+Carvana,2023,Nissan,Rogue,SV,21990.0,19858,Gray,Used,5N1BT3BB2PC858381,3006736440,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 19858 miles - $21,990",https://www.carvana.com/vehicle/4795796
+Carvana,2018,Nissan,Rogue,SV,15590.0,78038,Red,Used,5N1AT2MT0JC811319,3006832967,2018 Nissan Rogue,"Used 2018 Nissan Rogue SV with 78038 miles - $15,590",https://www.carvana.com/vehicle/4830722
+Carvana,2023,Nissan,Rogue,SV,23590.0,20465,White,Used,JN8BT3BB3PW486993,3006364984,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 20465 miles - $23,590",https://www.carvana.com/vehicle/4639164
+Carvana,2024,Nissan,Rogue,SV,19990.0,56030,Silver,Used,5N1BT3BA8RC686559,3006399177,2024 Nissan Rogue,"Used 2024 Nissan Rogue SV with 56030 miles - $19,990",https://www.carvana.com/vehicle/4661348
+Carvana,2023,Nissan,Rogue,S,18990.0,73643,Black,Used,5N1BT3AB7PC769522,3006788525,2023 Nissan Rogue,"Used 2023 Nissan Rogue S with 73643 miles - $18,990",https://www.carvana.com/vehicle/4839549
+Carvana,2018,Nissan,Rogue,SL,15590.0,93533,Silver,Used,5N1AT2MV4JC742314,3006719970,2018 Nissan Rogue,"Used 2018 Nissan Rogue SL with 93533 miles - $15,590",https://www.carvana.com/vehicle/4790686
+Carvana,2023,Nissan,Rogue,SV,21990.0,17451,Gray,Used,5N1BT3BBXPC918049,3006766381,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 17451 miles - $21,990",https://www.carvana.com/vehicle/4813418
+Carvana,2024,Nissan,Rogue,SV,18990.0,70400,White,Used,5N1BT3BA8RC726364,3006730337,2024 Nissan Rogue,"Used 2024 Nissan Rogue SV with 70400 miles - $18,990",https://www.carvana.com/vehicle/4809031
+Carvana,2024,Nissan,Rogue,S,19590.0,60809,Gray,Used,5N1BT3AB3RC709613,3006484091,2024 Nissan Rogue,"Used 2024 Nissan Rogue S with 60809 miles - $19,590",https://www.carvana.com/vehicle/4706572
+Carvana,2025,Nissan,Rogue,SV,19990.0,59374,White,Used,JN8BT3BBXSW412768,3006807565,2025 Nissan Rogue,"Used 2025 Nissan Rogue SV with 59374 miles - $19,990",https://www.carvana.com/vehicle/4822086
+Carvana,2025,Nissan,Rogue,S,23990.0,20977,White,Used,5N1BT3AA1SC770911,3006848368,2025 Nissan Rogue,"Used 2025 Nissan Rogue S with 20977 miles - $23,990",https://www.carvana.com/vehicle/4839016
+Carvana,2024,Nissan,Rogue,S,18990.0,62664,White,Used,5N1BT3AAXRC711785,3006837608,2024 Nissan Rogue,"Used 2024 Nissan Rogue S with 62664 miles - $18,990",https://www.carvana.com/vehicle/4848518
+Carvana,2023,Nissan,Rogue,SV,21590.0,22599,Gray,Used,5N1BT3BB6PC930506,3006691273,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 22599 miles - $21,590",https://www.carvana.com/vehicle/4802198
+Carvana,2017,Nissan,Rogue,SV (2017.5),16990.0,57789,Black,Used,KNMAT2MV6HP614180,3006612191,2017 Nissan Rogue,"Used 2017 Nissan Rogue SV (2017.5) with 57789 miles - $16,990",https://www.carvana.com/vehicle/4742431
+Carvana,2023,Nissan,Rogue,SV,20990.0,28415,Gray,Used,JN8BT3BB4PW476070,3006766872,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 28415 miles - $20,990",https://www.carvana.com/vehicle/4816884
+Carvana,2023,Nissan,Rogue,SV,20990.0,25290,Black,Used,5N1BT3BB0PC857004,3006691268,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 25290 miles - $20,990",https://www.carvana.com/vehicle/4803519
+Carvana,2025,Nissan,Rogue,SV,20990.0,38063,Blue,Used,5N1BT3BAXSC814161,3006699465,2025 Nissan Rogue,"Used 2025 Nissan Rogue SV with 38063 miles - $20,990",https://www.carvana.com/vehicle/4787184
+Carvana,2023,Nissan,Rogue,SV,21990.0,20314,Gray,Used,5N1BT3BBXPC870746,3006814169,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 20314 miles - $21,990",https://www.carvana.com/vehicle/4826431
+Carvana,2019,Nissan,Rogue,SV,19990.0,20405,White,Used,5N1AT2MT8KC797106,3006744907,2019 Nissan Rogue,"Used 2019 Nissan Rogue SV with 20405 miles - $19,990",https://www.carvana.com/vehicle/4820538
+Carvana,2023,Nissan,Rogue,SV,22990.0,14037,Blue,Used,5N1BT3BB5PC870282,3006766374,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 14037 miles - $22,990",https://www.carvana.com/vehicle/4817633
+Carvana,2023,Nissan,Rogue,SV,23590.0,11435,Silver,Used,5N1BT3BB7PC905145,3006863956,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 11435 miles - $23,590",https://www.carvana.com/vehicle/4845434
+Carvana,2023,Nissan,Rogue,SV,20990.0,26990,Black,Used,JN8BT3BB2PW482238,3006691322,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 26990 miles - $20,990",https://www.carvana.com/vehicle/4797916
+Carvana,2023,Nissan,Rogue,SV,20990.0,30689,Gray,Used,5N1BT3BB2PC870286,3006784141,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 30689 miles - $20,990",https://www.carvana.com/vehicle/4819473
+Carvana,2023,Nissan,Rogue,SV,20990.0,23516,Silver,Used,JN8BT3BBXPW487090,3006691333,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 23516 miles - $20,990",https://www.carvana.com/vehicle/4799557
+Carvana,2015,Nissan,Rogue,S,14790.0,67484,Blue,Used,KNMAT2MV0FP582579,3006547413,2015 Nissan Rogue,"Used 2015 Nissan Rogue S with 67484 miles - $14,790",https://www.carvana.com/vehicle/4718438
+Carvana,2020,Nissan,Rogue,SV,19990.0,30990,Blue,Used,JN8AT2MT6LW008976,2005127891,2020 Nissan Rogue,"Used 2020 Nissan Rogue SV with 30990 miles - $19,990",https://www.carvana.com/vehicle/4659080
+Carvana,2019,Nissan,Rogue,S,18590.0,50358,White,Used,5N1AT2MV1KC832456,3006749140,2019 Nissan Rogue,"Used 2019 Nissan Rogue S with 50358 miles - $18,590",https://www.carvana.com/vehicle/4845571
+Carvana,2015,Nissan,Rogue,SL,13990.0,90089,Blue,Used,5N1AT2MT6FC802549,3006479000,2015 Nissan Rogue,"Used 2015 Nissan Rogue SL with 90089 miles - $13,990",https://www.carvana.com/vehicle/4678953
+Carvana,2020,Nissan,Rogue,SL,21590.0,39707,Silver,Used,5N1AT2MV0LC781727,3006884468,2020 Nissan Rogue,"Used 2020 Nissan Rogue SL with 39707 miles - $21,590",https://www.carvana.com/vehicle/4851696
+Carvana,2018,Nissan,Rogue,SV,15590.0,92572,Black,Used,JN8AT2MT1JW451176,3006560542,2018 Nissan Rogue,"Used 2018 Nissan Rogue SV with 92572 miles - $15,590",https://www.carvana.com/vehicle/4730000
+Carvana,2023,Nissan,Rogue,SV,22990.0,12475,Black,Used,JN8BT3BB2PW352962,3006616702,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 12475 miles - $22,990",https://www.carvana.com/vehicle/4784216
+Carvana,2021,Nissan,Rogue,SV,18990.0,49240,Black,Used,JN8AT3BB9MW213211,3006589608,2021 Nissan Rogue,"Used 2021 Nissan Rogue SV with 49240 miles - $18,990",https://www.carvana.com/vehicle/4742549
+Carvana,2026,Nissan,Rogue,SV,23899.0,18559,Gray,Used,5N1BT3BB1TC735410,3006800586,2026 Nissan Rogue,"Used 2026 Nissan Rogue SV with 18559 miles - $23,899",https://www.carvana.com/vehicle/4828325
+Carvana,2023,Nissan,Rogue,SV,19590.0,66026,Blue,Used,JN8BT3BBXPW211198,3006786216,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 66026 miles - $19,590",https://www.carvana.com/vehicle/4819823
+Carvana,2023,Nissan,Rogue,SV,21590.0,30055,Black,Used,5N1BT3BB8PC856313,3006816720,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 30055 miles - $21,590",https://www.carvana.com/vehicle/4826470
+Carvana,2024,Nissan,Rogue,S,19590.0,63572,Black,Used,5N1BT3AB2RC706458,3006400459,2024 Nissan Rogue,"Used 2024 Nissan Rogue S with 63572 miles - $19,590",https://www.carvana.com/vehicle/4665425
+Carvana,2015,Nissan,Rogue,SV,14990.0,69003,Gray,Used,KNMAT2MV0FP536363,3006658749,2015 Nissan Rogue,"Used 2015 Nissan Rogue SV with 69003 miles - $14,990",https://www.carvana.com/vehicle/4795556
+Carvana,2021,Nissan,Rogue,S,16990.0,94611,Gray,Used,JN8AT3AB1MW223250,3006848126,2021 Nissan Rogue,"Used 2021 Nissan Rogue S with 94611 miles - $16,990",https://www.carvana.com/vehicle/4835265
+Carvana,2024,Nissan,Rogue,S,19590.0,61198,Black,Used,5N1BT3AB1RC711389,3006852300,2024 Nissan Rogue,"Used 2024 Nissan Rogue S with 61198 miles - $19,590",https://www.carvana.com/vehicle/4848583
+Carvana,2021,Nissan,Rogue,SV,17590.0,85707,Silver,Used,5N1AT3BA7MC840442,3006699924,2021 Nissan Rogue,"Used 2021 Nissan Rogue SV with 85707 miles - $17,590",https://www.carvana.com/vehicle/4804224
+Carvana,2017,Nissan,Rogue,SV,17590.0,50247,Black,Used,5N1AT2MV7HC763202,3006674954,2017 Nissan Rogue,"Used 2017 Nissan Rogue SV with 50247 miles - $17,590",https://www.carvana.com/vehicle/4814062
+Carvana,2023,Nissan,Rogue,SV,22990.0,18204,Gray,Used,5N1BT3BB9PC877963,3006766377,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 18204 miles - $22,990",https://www.carvana.com/vehicle/4817569
+Carvana,2023,Nissan,Rogue,SV,22990.0,18363,Gray,Used,JN8BT3BB0PW352054,3006833717,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 18363 miles - $22,990",https://www.carvana.com/vehicle/4839576
+Carvana,2026,Nissan,Rogue,SV,23990.0,25600,Gray,Used,5N1BT3BA0TC681833,3006706129,2026 Nissan Rogue,"Used 2026 Nissan Rogue SV with 25600 miles - $23,990",https://www.carvana.com/vehicle/4801059
+Carvana,2025,Nissan,Rogue,SV,20762.0,40495,Silver,Used,5N1BT3BB9SC820526,3006647304,2025 Nissan Rogue,"Used 2025 Nissan Rogue SV with 40495 miles - $20,762",https://www.carvana.com/vehicle/4771479
+Carvana,2023,Nissan,Rogue,SV,20990.0,33356,Black,Used,5N1BT3BB5PC883131,3006768194,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 33356 miles - $20,990",https://www.carvana.com/vehicle/4816031
+Carvana,2025,Nissan,Rogue,SV,21990.0,35755,Silver,Used,5N1BT3BB3SC810722,3006655935,2025 Nissan Rogue,"Used 2025 Nissan Rogue SV with 35755 miles - $21,990",https://www.carvana.com/vehicle/4787182
+Carvana,2024,Nissan,Rogue,S,19590.0,64841,Black,Used,5N1BT3AB1RC733070,3006776759,2024 Nissan Rogue,"Used 2024 Nissan Rogue S with 64841 miles - $19,590",https://www.carvana.com/vehicle/4811949
+Carvana,2023,Nissan,Rogue,SV,22990.0,19500,Gray,Used,5N1BT3BB6PC878472,3006491506,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 19500 miles - $22,990",https://www.carvana.com/vehicle/4693952
+Carvana,2023,Nissan,Rogue,SV,18990.0,58537,Gray,Used,5N1BT3BB1PC947150,3006474345,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 58537 miles - $18,990",https://www.carvana.com/vehicle/4714124
+Carvana,2024,Nissan,Rogue,S,19990.0,60716,Silver,Used,5N1BT3AB9RC753356,3006763277,2024 Nissan Rogue,"Used 2024 Nissan Rogue S with 60716 miles - $19,990",https://www.carvana.com/vehicle/4809275
+Carvana,2022,Nissan,Rogue,SV,18590.0,78325,Gray,Used,5N1BT3BAXNC677226,3006433027,2022 Nissan Rogue,"Used 2022 Nissan Rogue SV with 78325 miles - $18,590",https://www.carvana.com/vehicle/4687303
+Carvana,2023,Nissan,Rogue,SV,22990.0,13126,Black,Used,5N1BT3BB6PC857301,3006766375,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 13126 miles - $22,990",https://www.carvana.com/vehicle/4812853
+Carvana,2021,Nissan,Rogue,SL,21990.0,51002,Blue,Used,JN8AT3CA6MW027566,3006643211,2021 Nissan Rogue,"Used 2021 Nissan Rogue SL with 51002 miles - $21,990",https://www.carvana.com/vehicle/4774444
+Carvana,2023,Nissan,Rogue,SV,21590.0,27947,Silver,Used,5N1BT3BA3PC868036,3006709956,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 27947 miles - $21,590",https://www.carvana.com/vehicle/4784493
+Carvana,2023,Nissan,Rogue,SV,22590.0,35186,Red,Used,5N1BT3BB4PC679856,3006660965,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 35186 miles - $22,590",https://www.carvana.com/vehicle/4809562
+Carvana,2023,Nissan,Rogue,SV,22590.0,19530,Black,Used,5N1BT3BB1PC864589,3006766373,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 19530 miles - $22,590",https://www.carvana.com/vehicle/4817582
+Carvana,2023,Nissan,Rogue,SV,20990.0,61248,Silver,Used,JN8BT3BBXPW463128,3006864296,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 61248 miles - $20,990",https://www.carvana.com/vehicle/4854158
+Carvana,2015,Nissan,Rogue,SV,17590.0,54411,Gray,Used,5N1AT2MV0FC766763,3006774038,2015 Nissan Rogue,"Used 2015 Nissan Rogue SV with 54411 miles - $17,590",https://www.carvana.com/vehicle/4806483
+Carvana,2018,Nissan,Rogue,SV,14590.0,102875,Silver,Used,KNMAT2MT3JP551477,3006536914,2018 Nissan Rogue,"Used 2018 Nissan Rogue SV with 102875 miles - $14,590",https://www.carvana.com/vehicle/4724256
+Carvana,2017,Nissan,Rogue,SL,18590.0,49628,Black,Used,JN8AT2MT0HW400200,3006765656,2017 Nissan Rogue,"Used 2017 Nissan Rogue SL with 49628 miles - $18,590",https://www.carvana.com/vehicle/4803352
+Carvana,2023,Nissan,Rogue,SV,18990.0,73350,Silver,Used,JN8BT3BA2PW404288,3006841721,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 73350 miles - $18,990",https://www.carvana.com/vehicle/4838709
+Carvana,2024,Nissan,Rogue,SL,27590.0,15543,Silver,Used,JN8BT3CA2RW005107,3006757864,2024 Nissan Rogue,"Used 2024 Nissan Rogue SL with 15543 miles - $27,590",https://www.carvana.com/vehicle/4820442
+Carvana,2025,Nissan,Rogue,Rock Creek,30590.0,8826,Beige,Used,5N1BT3BB3SC826483,3006552212,2025 Nissan Rogue,"Used 2025 Nissan Rogue Rock Creek with 8826 miles - $30,590",https://www.carvana.com/vehicle/4723988
+Carvana,2023,Nissan,Rogue,SV,21990.0,20728,Blue,Used,JN8BT3BB9PW495004,3006688502,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 20728 miles - $21,990",https://www.carvana.com/vehicle/4792541
+Carvana,2025,Nissan,Rogue,S,22990.0,15035,White,Used,5N1BT3AA2SC762574,3006708674,2025 Nissan Rogue,"Used 2025 Nissan Rogue S with 15035 miles - $22,990",https://www.carvana.com/vehicle/4796567
+Carvana,2024,Nissan,Rogue,S,18590.0,67644,Black,Used,5N1BT3AB6RC687610,3006474286,2024 Nissan Rogue,"Used 2024 Nissan Rogue S with 67644 miles - $18,590",https://www.carvana.com/vehicle/4709283
+Carvana,2021,Nissan,Rogue,SV,19590.0,68525,Gray,Used,5N1AT3BB2MC726034,3006609834,2021 Nissan Rogue,"Used 2021 Nissan Rogue SV with 68525 miles - $19,590",https://www.carvana.com/vehicle/4748834
+Carvana,2023,Nissan,Rogue,S,19990.0,38886,Gray,Used,5N1BT3AB3PC866068,3006737977,2023 Nissan Rogue,"Used 2023 Nissan Rogue S with 38886 miles - $19,990",https://www.carvana.com/vehicle/4807081
+Carvana,2019,Nissan,Rogue,SL,19590.0,45243,Gray,Used,5N1AT2MV5KC754344,3006430275,2019 Nissan Rogue,"Used 2019 Nissan Rogue SL with 45243 miles - $19,590",https://www.carvana.com/vehicle/4672822
+Carvana,2026,Nissan,Rogue,Platinum,33590.0,2353,Gray,Used,JN8BT3DD9TW299234,3006585171,2026 Nissan Rogue,"Used 2026 Nissan Rogue Platinum with 2353 miles - $33,590",https://www.carvana.com/vehicle/4750848
+Carvana,2025,Nissan,Rogue,Platinum,32590.0,9115,Black,Used,JN8BT3DC2SW103057,2004946457,2025 Nissan Rogue,"Used 2025 Nissan Rogue Platinum with 9115 miles - $32,590",https://www.carvana.com/vehicle/4495622
+Carvana,2022,Nissan,Rogue,SV,17990.0,77891,Black,Used,5N1BT3BA6NC730889,2005013784,2022 Nissan Rogue,"Used 2022 Nissan Rogue SV with 77891 miles - $17,990",https://www.carvana.com/vehicle/4562258
+Carvana,2023,Nissan,Rogue,SL,24990.0,33704,Black,Used,JN8BT3CB2PW471464,3006563972,2023 Nissan Rogue,"Used 2023 Nissan Rogue SL with 33704 miles - $24,990",https://www.carvana.com/vehicle/4729551
+Carvana,2016,Nissan,Rogue,S,13590.0,100618,Blue,Used,JN8AT2MV6GW135573,2004885298,2016 Nissan Rogue,"Used 2016 Nissan Rogue S with 100618 miles - $13,590",https://www.carvana.com/vehicle/4449114
+Carvana,2021,Nissan,Rogue,SV,19590.0,86307,White,Used,JN8AT3BB2MW231579,3006793342,2021 Nissan Rogue,"Used 2021 Nissan Rogue SV with 86307 miles - $19,590",https://www.carvana.com/vehicle/4835032
+Carvana,2023,Nissan,Rogue,SV,20590.0,63574,Gray,Used,5N1BT3BB0PC744332,3006395268,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 63574 miles - $20,590",https://www.carvana.com/vehicle/4643327
+Carvana,2025,Nissan,Rogue,SV,25990.0,12864,Black,Used,JN8BT3BB0SW152204,3006851592,2025 Nissan Rogue,"Used 2025 Nissan Rogue SV with 12864 miles - $25,990",https://www.carvana.com/vehicle/4851447
+Carvana,2023,Nissan,Rogue,SV,21590.0,24096,Black,Used,JN8BT3BB7PW481716,3006736255,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 24096 miles - $21,590",https://www.carvana.com/vehicle/4811881
+Carvana,2018,Nissan,Rogue,S,18990.0,34231,Silver,Used,KNMAT2MV6JP592512,3006724244,2018 Nissan Rogue,"Used 2018 Nissan Rogue S with 34231 miles - $18,990",https://www.carvana.com/vehicle/4810490
+Carvana,2025,Nissan,Rogue,SV,20990.0,38587,Blue,Used,5N1BT3BA7SC838062,3006865274,2025 Nissan Rogue,"Used 2025 Nissan Rogue SV with 38587 miles - $20,990",https://www.carvana.com/vehicle/4845599
+Carvana,2023,Nissan,Rogue,SV,21590.0,30036,Gray,Used,JN8BT3BB8PW485984,3006736257,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 30036 miles - $21,590",https://www.carvana.com/vehicle/4811804
+Carvana,2017,Nissan,Rogue,S,18590.0,37510,Silver,Used,JN8AT2MV7HW257909,3006890004,2017 Nissan Rogue,"Used 2017 Nissan Rogue S with 37510 miles - $18,590",https://www.carvana.com/vehicle/4847381
+Carvana,2016,Nissan,Rogue,SL,17590.0,70413,Blue,Used,5N1AT2MV3GC812006,3006813840,2016 Nissan Rogue,"Used 2016 Nissan Rogue SL with 70413 miles - $17,590",https://www.carvana.com/vehicle/4833953
+Carvana,2025,Nissan,Rogue,SV,19299.0,51115,Blue,Used,5N1BT3BA8SC822615,3006878444,2025 Nissan Rogue,"Used 2025 Nissan Rogue SV with 51115 miles - $19,299",https://www.carvana.com/vehicle/4856772
+Carvana,2022,Nissan,Rogue,Platinum,25590.0,36780,White,Used,JN8BT3DDXNW271400,3006743754,2022 Nissan Rogue,"Used 2022 Nissan Rogue Platinum with 36780 miles - $25,590",https://www.carvana.com/vehicle/4792785
+Carvana,2025,Nissan,Rogue,SV,20399.0,50418,White,Used,5N1BT3BB2SC798398,3006869900,2025 Nissan Rogue,"Used 2025 Nissan Rogue SV with 50418 miles - $20,399",https://www.carvana.com/vehicle/4852755
+Carvana,2023,Nissan,Rogue,SV,21590.0,47845,Gray,Used,5N1BT3BB8PC897136,3006538916,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 47845 miles - $21,590",https://www.carvana.com/vehicle/4707181
+Carvana,2019,Nissan,Rogue,SV,16590.0,69175,Blue,Used,5N1AT2MT0KC799433,3006523263,2019 Nissan Rogue,"Used 2019 Nissan Rogue SV with 69175 miles - $16,590",https://www.carvana.com/vehicle/4737705
+Carvana,2019,Nissan,Rogue,SL,21590.0,37419,Gray,Used,5N1AT2MV0KC765509,3006822666,2019 Nissan Rogue,"Used 2019 Nissan Rogue SL with 37419 miles - $21,590",https://www.carvana.com/vehicle/4839525
+Carvana,2023,Nissan,Rogue,SL,21990.0,71581,Gray,Used,5N1BT3CBXPC799269,3006795121,2023 Nissan Rogue,"Used 2023 Nissan Rogue SL with 71581 miles - $21,990",https://www.carvana.com/vehicle/4816034
+Carvana,2024,Nissan,Rogue,S,18590.0,65282,White,Used,5N1BT3AA8RC701711,3006726762,2024 Nissan Rogue,"Used 2024 Nissan Rogue S with 65282 miles - $18,590",https://www.carvana.com/vehicle/4797308
+Carvana,2025,Nissan,Rogue,SV,19990.0,61301,Black,Used,5N1BT3BB9SC764488,3006730164,2025 Nissan Rogue,"Used 2025 Nissan Rogue SV with 61301 miles - $19,990",https://www.carvana.com/vehicle/4791049
+Carvana,2017,Nissan,Rogue,S,14590.0,101873,Gray,Used,KNMAT2MV9HP596614,3006396081,2017 Nissan Rogue,"Used 2017 Nissan Rogue S with 101873 miles - $14,590",https://www.carvana.com/vehicle/4645439
+Carvana,2021,Nissan,Rogue,SV,20590.0,55700,Gray,Used,5N1AT3BB5MC683941,3006857967,2021 Nissan Rogue,"Used 2021 Nissan Rogue SV with 55700 miles - $20,590",https://www.carvana.com/vehicle/4845774
+Carvana,2018,Nissan,Rogue,SV,18990.0,43304,Black,Used,KNMAT2MVXJP552871,3006668237,2018 Nissan Rogue,"Used 2018 Nissan Rogue SV with 43304 miles - $18,990",https://www.carvana.com/vehicle/4785765
+Carvana,2018,Nissan,Rogue,SL,16990.0,75674,White,Used,5N1AT2MV8JC758189,2004870823,2018 Nissan Rogue,"Used 2018 Nissan Rogue SL with 75674 miles - $16,990",https://www.carvana.com/vehicle/4425281
+Carvana,2025,Nissan,Rogue,SV,21590.0,38751,Black,Used,5N1BT3BA1SC763830,3006849533,2025 Nissan Rogue,"Used 2025 Nissan Rogue SV with 38751 miles - $21,590",https://www.carvana.com/vehicle/4840776
+Carvana,2025,Nissan,Rogue,SV,21590.0,39096,Black,Used,5N1BT3BB7SC805572,3006743007,2025 Nissan Rogue,"Used 2025 Nissan Rogue SV with 39096 miles - $21,590",https://www.carvana.com/vehicle/4806318
+Carvana,2025,Nissan,Rogue,SV,21990.0,37459,Black,Used,5N1BT3BB5SC815159,3006661603,2025 Nissan Rogue,"Used 2025 Nissan Rogue SV with 37459 miles - $21,990",https://www.carvana.com/vehicle/4760074
+Carvana,2018,Nissan,Rogue,SL,19990.0,47223,White,Used,5N1AT2MT8JC806546,3006695537,2018 Nissan Rogue,"Used 2018 Nissan Rogue SL with 47223 miles - $19,990",https://www.carvana.com/vehicle/4811288
+Carvana,2023,Nissan,Rogue,SV,21990.0,31742,Gray,Used,5N1BT3BA1PC685511,3006699545,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 31742 miles - $21,990",https://www.carvana.com/vehicle/4825724
+Carvana,2024,Nissan,Rogue,SV,19990.0,55581,Gray,Used,5N1BT3BB3RC704085,3006728227,2024 Nissan Rogue,"Used 2024 Nissan Rogue SV with 55581 miles - $19,990",https://www.carvana.com/vehicle/4790402
+Carvana,2025,Nissan,Rogue,SL,26990.0,34492,Gray,Used,5N1BT3CB2SC673934,3006803210,2025 Nissan Rogue,"Used 2025 Nissan Rogue SL with 34492 miles - $26,990",https://www.carvana.com/vehicle/4824216
+Carvana,2022,Nissan,Rogue,SV,16590.0,101439,White,Used,5N1BT3BA8NC717643,3006689351,2022 Nissan Rogue,"Used 2022 Nissan Rogue SV with 101439 miles - $16,590",https://www.carvana.com/vehicle/4784482
+Carvana,2025,Nissan,Rogue,SV,20990.0,46593,Black,Used,5N1BT3BB3SC814625,3006655938,2025 Nissan Rogue,"Used 2025 Nissan Rogue SV with 46593 miles - $20,990",https://www.carvana.com/vehicle/4777363
+Carvana,2026,Nissan,Rogue,SV,25990.0,12782,White,Used,5N1BT3BA4TC801052,3006747453,2026 Nissan Rogue,"Used 2026 Nissan Rogue SV with 12782 miles - $25,990",https://www.carvana.com/vehicle/4798601
+Carvana,2023,Nissan,Rogue,SV,21990.0,17668,Black,Used,JN8BT3BB5PW494187,3006690126,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 17668 miles - $21,990",https://www.carvana.com/vehicle/4775579
+Carvana,2019,Nissan,Rogue,SV,19590.0,60277,Black,Used,JN8AT2MV8KW387723,3006889139,2019 Nissan Rogue,"Used 2019 Nissan Rogue SV with 60277 miles - $19,590",https://www.carvana.com/vehicle/4850582
+Carvana,2018,Nissan,Rogue,SL,18590.0,49611,Gray,Used,JN8AT2MV3JW324253,3006690484,2018 Nissan Rogue,"Used 2018 Nissan Rogue SL with 49611 miles - $18,590",https://www.carvana.com/vehicle/4771192
+Carvana,2018,Nissan,Rogue,SV,16990.0,63409,Silver,Used,5N1AT2MVXJC845091,2004484428,2018 Nissan Rogue,"Used 2018 Nissan Rogue SV with 63409 miles - $16,990",https://www.carvana.com/vehicle/4166661
+Carvana,2023,Nissan,Rogue,SV,23990.0,5465,Gray,Used,JN8BT3BB2PW494874,3006883240,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 5465 miles - $23,990",https://www.carvana.com/vehicle/4854269
+Carvana,2026,Nissan,Rogue,SV,22999.0,30307,White,Used,5N1BT3BB1TC731227,3006887741,2026 Nissan Rogue,"Used 2026 Nissan Rogue SV with 30307 miles - $22,999",https://www.carvana.com/vehicle/4859403
+Carvana,2021,Nissan,Rogue,SV,19990.0,60720,Blue,Used,5N1AT3BB7MC712341,3006861020,2021 Nissan Rogue,"Used 2021 Nissan Rogue SV with 60720 miles - $19,990",https://www.carvana.com/vehicle/4837147
+Carvana,2017,Nissan,Rogue,S,14590.0,82672,Red,Used,5N1AT2MT8HC832347,2005134866,2017 Nissan Rogue,"Used 2017 Nissan Rogue S with 82672 miles - $14,590",https://www.carvana.com/vehicle/4625246
+Carvana,2025,Nissan,Rogue,SV,20990.0,35738,Blue,Used,5N1BT3BA2SC821198,3006731179,2025 Nissan Rogue,"Used 2025 Nissan Rogue SV with 35738 miles - $20,990",https://www.carvana.com/vehicle/4791109
+Carvana,2025,Nissan,Rogue,SV,18990.0,58114,Black,Used,5N1BT3BA1SC785777,3006751848,2025 Nissan Rogue,"Used 2025 Nissan Rogue SV with 58114 miles - $18,990",https://www.carvana.com/vehicle/4811600
+Carvana,2019,Nissan,Rogue,SV,15990.0,80704,White,Used,KNMAT2MTXKP556726,2005001523,2019 Nissan Rogue,"Used 2019 Nissan Rogue SV with 80704 miles - $15,990",https://www.carvana.com/vehicle/4569630
+Carvana,2026,Nissan,Rogue,SV,25990.0,7670,Gray,Used,5N1BT3BA8TC711516,3006874395,2026 Nissan Rogue,"Used 2026 Nissan Rogue SV with 7670 miles - $25,990",https://www.carvana.com/vehicle/4850804
+Carvana,2016,Nissan,Rogue,SV,16590.0,56652,White,Used,KNMAT2MV4GP667605,3006819187,2016 Nissan Rogue,"Used 2016 Nissan Rogue SV with 56652 miles - $16,590",https://www.carvana.com/vehicle/4822926
+Carvana,2019,Nissan,Rogue,SV,15590.0,85919,Silver,Used,KNMAT2MT8KP508819,3006553857,2019 Nissan Rogue,"Used 2019 Nissan Rogue SV with 85919 miles - $15,590",https://www.carvana.com/vehicle/4749127
+Carvana,2020,Nissan,Rogue,SV,15590.0,95603,Gray,Used,JN8AT2MV4LW143892,3006438713,2020 Nissan Rogue,"Used 2020 Nissan Rogue SV with 95603 miles - $15,590",https://www.carvana.com/vehicle/4669564
+Carvana,2015,Nissan,Rogue,SL,15990.0,62106,White,Used,5N1AT2MV1FC794782,3006779772,2015 Nissan Rogue,"Used 2015 Nissan Rogue SL with 62106 miles - $15,990",https://www.carvana.com/vehicle/4816578
+Carvana,2024,Nissan,Rogue,SV,19990.0,53680,White,Used,5N1BT3BBXRC687172,3006685269,2024 Nissan Rogue,"Used 2024 Nissan Rogue SV with 53680 miles - $19,990",https://www.carvana.com/vehicle/4807927
+Carvana,2024,Nissan,Rogue,SV,16590.0,101449,Blue,Used,5N1BT3BB5RC677472,2005092652,2024 Nissan Rogue,"Used 2024 Nissan Rogue SV with 101449 miles - $16,590",https://www.carvana.com/vehicle/4599195
+Carvana,2023,Nissan,Rogue,SV,21990.0,18939,Silver,Used,JN8BT3BB9PW484164,3006592423,2023 Nissan Rogue,"Used 2023 Nissan Rogue SV with 18939 miles - $21,990",https://www.carvana.com/vehicle/4734052
+Carvana,2021,Nissan,Rogue,SL,20990.0,67749,White,Used,JN8AT3CB2MW240166,3006790522,2021 Nissan Rogue,"Used 2021 Nissan Rogue SL with 67749 miles - $20,990",https://www.carvana.com/vehicle/4818395
+Carvana,2023,Nissan,Rogue,S,19990.0,53745,White,Used,5N1BT3AB1PC772447,3006838265,2023 Nissan Rogue,"Used 2023 Nissan Rogue S with 53745 miles - $19,990",https://www.carvana.com/vehicle/4841779
+Carvana,2018,Nissan,Rogue,SV,18990.0,27045,Blue,Used,KNMAT2MT4JP597271,3006514008,2018 Nissan Rogue,"Used 2018 Nissan Rogue SV with 27045 miles - $18,990",https://www.carvana.com/vehicle/4710531
+Carvana,2024,Toyota,Camry,SE,26990.0,28449,White,Used,4T1G11AK2RU909747,3006691191,2024 Toyota Camry,"Used 2024 Toyota Camry SE with 28449 miles - $26,990",https://www.carvana.com/vehicle/4769659
+Carvana,2012,Toyota,Camry,LE,15590.0,77172,Blue,Used,4T1BF1FK0CU621334,3006509487,2012 Toyota Camry,"Used 2012 Toyota Camry LE with 77172 miles - $15,590",https://www.carvana.com/vehicle/4693181
+Carvana,2023,Toyota,Camry,LE,22990.0,67088,Red,Used,4T1C11BK7PU098246,3006572794,2023 Toyota Camry,"Used 2023 Toyota Camry LE with 67088 miles - $22,990",https://www.carvana.com/vehicle/4800316
+Carvana,2025,Toyota,Camry,SE,29990.0,16861,Gray,Used,4T1DAACK6SU600062,3006810353,2025 Toyota Camry,"Used 2025 Toyota Camry SE with 16861 miles - $29,990",https://www.carvana.com/vehicle/4841334
+Carvana,2023,Toyota,Camry,LE,28590.0,1021,White,Used,4T1R11AK0PU756422,3006892627,2023 Toyota Camry,"Used 2023 Toyota Camry LE with 1021 miles - $28,590",https://www.carvana.com/vehicle/4854283
+Carvana,2020,Toyota,Camry,XSE,20590.0,119910,Blue,Used,4T1K61AK7LU352630,3006699153,2020 Toyota Camry,"Used 2020 Toyota Camry XSE with 119910 miles - $20,590",https://www.carvana.com/vehicle/4768664
+Carvana,2018,Toyota,Camry,XLE,24590.0,49487,Red,Used,4T1BZ1HKXJU504216,3006818740,2018 Toyota Camry,"Used 2018 Toyota Camry XLE with 49487 miles - $24,590",https://www.carvana.com/vehicle/4831555
+Carvana,2020,Toyota,Camry,LE,23590.0,40987,Black,Used,4T1C11BK3LU017401,2004843964,2020 Toyota Camry,"Used 2020 Toyota Camry LE with 40987 miles - $23,590",https://www.carvana.com/vehicle/4407078
+Carvana,2011,Toyota,Camry,Hybrid,16990.0,40461,Blue,Used,4T1BB3EK7BU136003,3006655594,2011 Toyota Camry,"Used 2011 Toyota Camry Hybrid with 40461 miles - $16,990",https://www.carvana.com/vehicle/4763789
+Carvana,2014,Toyota,Camry,SE,18990.0,49131,Silver,Used,4T1BF1FK6EU434411,3006516351,2014 Toyota Camry,"Used 2014 Toyota Camry SE with 49131 miles - $18,990",https://www.carvana.com/vehicle/4708763
+Carvana,2016,Toyota,Camry,LE,23590.0,18583,Beige,Used,4T4BF1FK1GR532805,3006785285,2016 Toyota Camry,"Used 2016 Toyota Camry LE with 18583 miles - $23,590",https://www.carvana.com/vehicle/4811012
+Carvana,2022,Toyota,Camry,SE,20590.0,93930,Black,Used,4T1T11AK1NU704557,3006638123,2022 Toyota Camry,"Used 2022 Toyota Camry SE with 93930 miles - $20,590",https://www.carvana.com/vehicle/4751478
+Carvana,2021,Toyota,Camry,TRD,28990.0,70064,White,Used,4T1KZ1AK9MU049955,3006638401,2021 Toyota Camry,"Used 2021 Toyota Camry TRD with 70064 miles - $28,990",https://www.carvana.com/vehicle/4752215
+Carvana,2021,Toyota,Camry,XSE,24590.0,87493,Silver,Used,4T1K61AK6MU529296,3006795469,2021 Toyota Camry,"Used 2021 Toyota Camry XSE with 87493 miles - $24,590",https://www.carvana.com/vehicle/4830439
+Carvana,2015,Toyota,Camry,XLE,18590.0,69398,Blue,Used,4T1BF1FK3FU919445,3006543755,2015 Toyota Camry,"Used 2015 Toyota Camry XLE with 69398 miles - $18,590",https://www.carvana.com/vehicle/4714122
+Carvana,2019,Toyota,Camry,XSE,21590.0,100072,Red,Used,4T1B61HK8KU247826,3006557295,2019 Toyota Camry,"Used 2019 Toyota Camry XSE with 100072 miles - $21,590",https://www.carvana.com/vehicle/4715961
+Carvana,2011,Toyota,Camry,XLE,14990.0,93346,Gray,Used,4T1BK3EKXBU630095,3006705541,2011 Toyota Camry,"Used 2011 Toyota Camry XLE with 93346 miles - $14,990",https://www.carvana.com/vehicle/4777009
+Carvana,2023,Toyota,Camry,SE Nightshade Edition,26590.0,53080,Black,Used,4T1T11BK0PU075309,3006690461,2023 Toyota Camry,"Used 2023 Toyota Camry SE Nightshade Edition with 53080 miles - $26,590",https://www.carvana.com/vehicle/4777197
+Carvana,2025,Toyota,Camry,XSE,35990.0,18219,Gray,Used,4T1DAACK6SU545113,3006878026,2025 Toyota Camry,"Used 2025 Toyota Camry XSE with 18219 miles - $35,990",https://www.carvana.com/vehicle/4855472
+Carvana,2023,Toyota,Camry,XSE,29590.0,32762,Red,Used,4T1K61AK6PU119781,3006722663,2023 Toyota Camry,"Used 2023 Toyota Camry XSE with 32762 miles - $29,590",https://www.carvana.com/vehicle/4806899
+Carvana,2021,Toyota,Camry,LE,20590.0,78387,Gray,Used,4T1C11AK2MU561228,3006569596,2021 Toyota Camry,"Used 2021 Toyota Camry LE with 78387 miles - $20,590",https://www.carvana.com/vehicle/4821897
+Carvana,2015,Toyota,Camry,SE,14990.0,117614,Gray,Used,4T1BF1FK6FU081458,3006713665,2015 Toyota Camry,"Used 2015 Toyota Camry SE with 117614 miles - $14,990",https://www.carvana.com/vehicle/4780823
+Carvana,2019,Toyota,Camry,XSE,25590.0,62023,White,Used,4T1B61HK1KU243343,3006810470,2019 Toyota Camry,"Used 2019 Toyota Camry XSE with 62023 miles - $25,590",https://www.carvana.com/vehicle/4824862
+Carvana,2015,Toyota,Camry,XLE,20590.0,38945,Blue,Used,4T1BF1FK7FU924177,3006522517,2015 Toyota Camry,"Used 2015 Toyota Camry XLE with 38945 miles - $20,590",https://www.carvana.com/vehicle/4725612
+Carvana,2025,Toyota,Camry,SE,30590.0,13717,Black,Used,4T1DAACK2SU640428,3006793153,2025 Toyota Camry,"Used 2025 Toyota Camry SE with 13717 miles - $30,590",https://www.carvana.com/vehicle/4816072
+Carvana,2020,Toyota,Camry,SE,21990.0,77505,Black,Used,4T1G11AK4LU325891,2004587369,2020 Toyota Camry,"Used 2020 Toyota Camry SE with 77505 miles - $21,990",https://www.carvana.com/vehicle/4273747
+Carvana,2025,Toyota,Camry,SE,27990.0,38164,Blue,Used,4T1DAACK2SU033610,2005029144,2025 Toyota Camry,"Used 2025 Toyota Camry SE with 38164 miles - $27,990",https://www.carvana.com/vehicle/4557727
+Carvana,2022,Toyota,Camry,XSE,24590.0,81975,White,Used,4T1K61AK7NU015345,3006688655,2022 Toyota Camry,"Used 2022 Toyota Camry XSE with 81975 miles - $24,590",https://www.carvana.com/vehicle/4783504
+Carvana,2025,Toyota,Camry,LE,26999.0,23312,White,Used,4T1DAACK7SU130205,3006851994,2025 Toyota Camry,"Used 2025 Toyota Camry LE with 23312 miles - $26,999",https://www.carvana.com/vehicle/4848983
+Carvana,2025,Toyota,Camry,LE,23990.0,44044,White,Used,4T1DAACK0SU057310,3006590496,2025 Toyota Camry,"Used 2025 Toyota Camry LE with 44044 miles - $23,990",https://www.carvana.com/vehicle/4748550
+Carvana,2018,Toyota,Camry,XSE,21590.0,94790,Silver,Used,4T1BZ1HK1JU010312,3006495205,2018 Toyota Camry,"Used 2018 Toyota Camry XSE with 94790 miles - $21,590",https://www.carvana.com/vehicle/4689514
+Carvana,2015,Toyota,Camry,XLE,19990.0,46008,Silver,Used,4T1BF1FK8FU981424,3006551132,2015 Toyota Camry,"Used 2015 Toyota Camry XLE with 46008 miles - $19,990",https://www.carvana.com/vehicle/4736327
+Carvana,2022,Toyota,Camry,LE,21990.0,46069,Black,Used,4T1C11AK2NU634552,3006774990,2022 Toyota Camry,"Used 2022 Toyota Camry LE with 46069 miles - $21,990",https://www.carvana.com/vehicle/4814518
+Carvana,2021,Toyota,Camry,LE,21590.0,73650,Blue,Used,4T1C11AK6MU580509,3006602778,2021 Toyota Camry,"Used 2021 Toyota Camry LE with 73650 miles - $21,590",https://www.carvana.com/vehicle/4733701
+Carvana,2023,Toyota,Camry,LE,23990.0,34816,White,Used,4T1R11AK2PU169011,3006818935,2023 Toyota Camry,"Used 2023 Toyota Camry LE with 34816 miles - $23,990",https://www.carvana.com/vehicle/4818690
+Carvana,2015,Toyota,Camry,XLE,18990.0,55400,Black,Used,4T1BF1FKXFU936999,3006696186,2015 Toyota Camry,"Used 2015 Toyota Camry XLE with 55400 miles - $18,990",https://www.carvana.com/vehicle/4794727
+Carvana,2018,Toyota,Camry,SE,19990.0,89944,Black,Used,4T1B11HK7JU110499,3006384149,2018 Toyota Camry,"Used 2018 Toyota Camry SE with 89944 miles - $19,990",https://www.carvana.com/vehicle/4648133
+Carvana,2025,Toyota,Camry,SE,29990.0,20950,Gray,Used,4T1DAACK3SU541875,3006874809,2025 Toyota Camry,"Used 2025 Toyota Camry SE with 20950 miles - $29,990",https://www.carvana.com/vehicle/4852257
+Carvana,2022,Toyota,Camry,XSE,25990.0,75894,Blue,Used,4T1K61AK3NU699505,3006807420,2022 Toyota Camry,"Used 2022 Toyota Camry XSE with 75894 miles - $25,990",https://www.carvana.com/vehicle/4835159
+Carvana,2017,Toyota,Camry,XLE,22590.0,33066,White,Used,4T1BF1FKXHU744002,3006764332,2017 Toyota Camry,"Used 2017 Toyota Camry XLE with 33066 miles - $22,590",https://www.carvana.com/vehicle/4805045
+Carvana,2018,Toyota,Camry,SE,19590.0,85203,Red,Used,4T1B11HK5JU567277,3006600534,2018 Toyota Camry,"Used 2018 Toyota Camry SE with 85203 miles - $19,590",https://www.carvana.com/vehicle/4760533
+Carvana,2019,Toyota,Camry,LE,20990.0,67832,Red,Used,4T1B11HK0KU799819,3006874904,2019 Toyota Camry,"Used 2019 Toyota Camry LE with 67832 miles - $20,990",https://www.carvana.com/vehicle/4849378
+Carvana,2014,Toyota,Camry,Hybrid XLE,16590.0,97356,Gray,Used,4T1BD1FK8EU134147,3006332746,2014 Toyota Camry,"Used 2014 Toyota Camry Hybrid XLE with 97356 miles - $16,590",https://www.carvana.com/vehicle/4614954
+Carvana,2015,Toyota,Camry,SE,19590.0,36900,Gray,Used,4T1BF1FK1FU876014,3006591597,2015 Toyota Camry,"Used 2015 Toyota Camry SE with 36900 miles - $19,590",https://www.carvana.com/vehicle/4739541
+Carvana,2025,Toyota,Camry,LE,25990.0,42949,Blue,Used,4T1DAACK2SU045739,3006614813,2025 Toyota Camry,"Used 2025 Toyota Camry LE with 42949 miles - $25,990",https://www.carvana.com/vehicle/4740846
+Carvana,2023,Toyota,Camry,SE,25590.0,43106,Red,Used,4T1G11AK4PU077163,3006878657,2023 Toyota Camry,"Used 2023 Toyota Camry SE with 43106 miles - $25,590",https://www.carvana.com/vehicle/4844261
+Carvana,2025,Toyota,Camry,SE,27990.0,40131,Gray,Used,4T1DAACK1SU510284,3006799883,2025 Toyota Camry,"Used 2025 Toyota Camry SE with 40131 miles - $27,990",https://www.carvana.com/vehicle/4831941
+Carvana,2020,Toyota,Camry,SE,24590.0,37847,Gray,Used,4T1G11AKXLU939280,3006559046,2020 Toyota Camry,"Used 2020 Toyota Camry SE with 37847 miles - $24,590",https://www.carvana.com/vehicle/4714868
+Carvana,2023,Toyota,Camry,SE,25590.0,52512,Gray,Used,4T1G11BK3PU101676,3006730584,2023 Toyota Camry,"Used 2023 Toyota Camry SE with 52512 miles - $25,590",https://www.carvana.com/vehicle/4790064
+Carvana,2014,Toyota,Camry,SE,17990.0,60920,Silver,Used,4T1BF1FK6EU310025,3006714788,2014 Toyota Camry,"Used 2014 Toyota Camry SE with 60920 miles - $17,990",https://www.carvana.com/vehicle/4784494
+Carvana,2025,Toyota,Camry,LE,23990.0,47324,White,Used,4T1DAACK1SU091109,3006585050,2025 Toyota Camry,"Used 2025 Toyota Camry LE with 47324 miles - $23,990",https://www.carvana.com/vehicle/4743794
+Carvana,2017,Toyota,Camry,SE,20590.0,48030,Black,Used,4T1BF1FK2HU656870,3006695332,2017 Toyota Camry,"Used 2017 Toyota Camry SE with 48030 miles - $20,590",https://www.carvana.com/vehicle/4777491
+Carvana,2024,Toyota,Camry,XLE,29990.0,15760,Gray,Used,4T1F11AK3RU851742,3006827040,2024 Toyota Camry,"Used 2024 Toyota Camry XLE with 15760 miles - $29,990",https://www.carvana.com/vehicle/4850461
+Carvana,2020,Toyota,Camry,SE,22590.0,63876,Black,Used,4T1G11AK1LU885271,3006788314,2020 Toyota Camry,"Used 2020 Toyota Camry SE with 63876 miles - $22,590",https://www.carvana.com/vehicle/4828606
+Carvana,2024,Toyota,Camry,SE,23990.0,72523,Silver,Used,4T1G11AK6RU251589,3006836826,2024 Toyota Camry,"Used 2024 Toyota Camry SE with 72523 miles - $23,990",https://www.carvana.com/vehicle/4847269
+Carvana,2017,Toyota,Camry,SE,20990.0,39898,White,Used,4T1BF1FK0HU432271,3006693009,2017 Toyota Camry,"Used 2017 Toyota Camry SE with 39898 miles - $20,990",https://www.carvana.com/vehicle/4795476
+Carvana,2024,Toyota,Camry,LE,25590.0,35897,Gray,Used,4T1C11BKXRU120291,3006611232,2024 Toyota Camry,"Used 2024 Toyota Camry LE with 35897 miles - $25,590",https://www.carvana.com/vehicle/4742256
+Carvana,2022,Toyota,Camry,SE,26590.0,19916,Silver,Used,4T1G11AK0NU642005,3006779839,2022 Toyota Camry,"Used 2022 Toyota Camry SE with 19916 miles - $26,590",https://www.carvana.com/vehicle/4833431
+Carvana,2018,Toyota,Camry,SE,23590.0,22402,White,Used,4T1B11HK2JU158461,3006655669,2018 Toyota Camry,"Used 2018 Toyota Camry SE with 22402 miles - $23,590",https://www.carvana.com/vehicle/4804348
+Carvana,2018,Toyota,Camry,XLE,21590.0,60731,White,Used,4T1B11HKXJU529690,3006725627,2018 Toyota Camry,"Used 2018 Toyota Camry XLE with 60731 miles - $21,590",https://www.carvana.com/vehicle/4826425
+Carvana,2019,Toyota,Camry,XLE,19990.0,86420,Black,Used,4T1B11HK9KU813331,3006738564,2019 Toyota Camry,"Used 2019 Toyota Camry XLE with 86420 miles - $19,990",https://www.carvana.com/vehicle/4791093
+Carvana,2025,Toyota,Camry,SE,29990.0,24532,Gray,Used,4T1DAACK3SU613108,3006500918,2025 Toyota Camry,"Used 2025 Toyota Camry SE with 24532 miles - $29,990",https://www.carvana.com/vehicle/4710828

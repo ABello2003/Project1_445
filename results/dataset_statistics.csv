@@ -1,0 +1,30 @@
+,count,unique,top,freq,mean,std,min,25%,50%,75%,max
+source,1033,2,Cars.com,612,,,,,,,
+year,1033.0,,,,2023.1423039690224,1.830533798898193,2019.0,2022.0,2024.0,2024.0,2025.0
+make,1033,3,Nissan,479,,,,,,,
+model,1033,9,Rogue,206,,,,,,,
+trim,1033,52,SV,269,,,,,,,
+price,1033.0,,,,22790.336882865442,4373.494119437747,9216.0,19211.0,22590.0,25860.0,38266.0
+mileage,1033.0,,,,43838.593417231365,25116.877869320455,1752.0,25795.0,39989.0,56896.0,163455.0
+color,421,9,Gray,110,,,,,,,
+condition,421,1,Used,421,,,,,,,
+vin,421,421,1N4BL4BV0RN368815,1,,,,,,,
+sku,421.0,,,,2980530273.4679337,159973001.80113098,2004813964.0,3006592881.0,3006731029.0,3006814169.0,3006898240.0
+title,421,23,2025 Nissan Sentra,60,,,,,,,
+description,1033,1033,"Used 2024 Nissan Altima 2.5 S with 67050 miles - $17,990",1,,,,,,,
+listing_url,1033,1033,https://www.carvana.com/vehicle/4843571,1,,,,,,,
+vehicle_age,1033.0,,,,2.857696030977735,1.8305337988981931,1.0,2.0,2.0,4.0,7.0
+mileage_per_year,1033.0,,,,19246.09962430277,12820.13619484933,436.85714285714283,10018.333333333334,15589.0,25609.0,87102.0
+mentions_one_owner,1033.0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+mentions_accident_free,1033.0,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+mentions_certified,1033.0,,,,0.09970958373668926,0.29975751323271005,0.0,0.0,0.0,0.0,1.0
+mentions_awd,1033.0,,,,0.03484995159728945,0.18348848722544037,0.0,0.0,0.0,0.0,1.0
+base_trim,1033,4,LX,478,,,,,,,
+base_drivetrain,1033,2,FWD,878,,,,,,,
+original_msrp,1033.0,,,,25063.939980638916,3206.8476220133675,19090.0,21700.0,25470.0,27895.0,29500.0
+msrp_source_url,1033,25,https://hondanews.com/en-US/releases/release-5003aaa39c009393f5d06d620f08fa05-2024-honda-civic-sedan-pricing-and-epa-ratings,98,,,,,,,
+msrp_notes,1033,15,Manufacturer original announcement; base MSRP excluding destination and options,135,,,,,,,
+verification_scope,665,3,inherited_prior_reference,538,,,,,,,
+msrp_match_status,1033,1,MATCHED_BASE_MSRP,1033,,,,,,,
+value_retention_ratio,1033.0,,,,0.9121281322607735,0.14425050414609636,0.4827658459926663,0.8157792460163233,0.9220912352639672,1.00719794344473,1.4390745501285347
+msrp_verification_status,1033,4,inherited_prior_reference,538,,,,,,,
