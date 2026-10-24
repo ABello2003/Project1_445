@@ -6,9 +6,7 @@ from datetime import date
 import numpy as np
 import pandas as pd
 
-# ============================================================
-# CONFIGURATION
-# ============================================================
+# Configuarion
 
 DATA_DIR = Path("data")
 
@@ -36,10 +34,7 @@ COLUMNS = [
 ]
 
 
-# ============================================================
-# HELPER FUNCTIONS
-# ============================================================
-
+#Helper functions
 def clean_text(value):
     if pd.isna(value):
         return ""
@@ -97,9 +92,7 @@ def normalize_url(value):
     return url.split("?")[0].rstrip("/").lower()
 
 
-# ============================================================
-# LOAD DATA
-# ============================================================
+#Loadign data
 
 def load_dataset(path, source):
     if not path.exists():
@@ -127,10 +120,7 @@ def load_dataset(path, source):
     return df[COLUMNS].copy()
 
 
-# ============================================================
-# MAIN DATA PREPARATION
-# ============================================================
-
+# Main data prep
 def main():
     DATA_DIR.mkdir(exist_ok=True)
 
@@ -150,9 +140,7 @@ def main():
 
     print("\nCombined records:", original_count)
 
-    # --------------------------------------------------------
-    # CLEAN TEXT
-    # --------------------------------------------------------
+    #Clean up texy
 
     text_columns = [
         "source", "make", "model", "trim",
@@ -175,17 +163,13 @@ def main():
         normalize_url
     )
 
-    # --------------------------------------------------------
-    # CLEAN NUMERIC VALUES
-    # --------------------------------------------------------
+    # Clean numerical values
 
     df["year"] = clean_numeric(df["year"])
     df["price"] = clean_numeric(df["price"])
     df["mileage"] = clean_numeric(df["mileage"])
 
-    # --------------------------------------------------------
-    # VALIDATE VEHICLES
-    # --------------------------------------------------------
+    # Validate Vechiles
 
     valid_model = df.apply(
         lambda row: row["model"] in TARGET_MODELS.get(
@@ -227,9 +211,7 @@ def main():
 
     print("Invalid records removed:", len(rejected))
 
-    # --------------------------------------------------------
-    # REMOVE DUPLICATES
-    # --------------------------------------------------------
+    # Remove duplicates
 
     duplicates = []
 
@@ -268,9 +250,7 @@ def main():
 
     print("Duplicate records removed:", len(duplicate_df))
 
-    # --------------------------------------------------------
-    # FEATURE ENGINEERING
-    # --------------------------------------------------------
+    #Feature engineering
 
     df["year"] = df["year"].astype(int)
     df["price"] = df["price"].astype(float)
@@ -329,9 +309,7 @@ def main():
     df["original_msrp"] = np.nan
     df["value_retention_ratio"] = np.nan
 
-    # --------------------------------------------------------
-    # SAVE CLEANED DATASET
-    # --------------------------------------------------------
+    # Saved cleaned up dataset
 
     df = df.sort_values(
         ["make", "model", "year", "price"]
@@ -341,9 +319,7 @@ def main():
         OUTPUT_FILE, index=False
     )
 
-    # --------------------------------------------------------
-    # GENERATE QUALITY REPORT
-    # --------------------------------------------------------
+    # Generate quality report
 
     missing_values = df.isna().sum()
 
@@ -414,9 +390,7 @@ def main():
         encoding="utf-8"
     )
 
-    # --------------------------------------------------------
-    # PRINT RESULTS
-    # --------------------------------------------------------
+    #Print
 
     print("\n" + "=" * 60)
     print("DATA PREPARATION COMPLETE")
