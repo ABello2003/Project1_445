@@ -1,21 +1,20 @@
 
-# ============================================================
+
 # USED VEHICLE VALUE RETENTION - MACHINE LEARNING PROJECT
-# ============================================================
+
 # Models:
 #   1. Ridge Regression
 #   2. Random Forest Regression
 #   3. Gradient Boosting Regression
-#
+
 # Outputs:
-#   - Cleaned modeling dataset
-#   - Dataset statistics
-#   - Source and feature requirement checks
-#   - MAE, RMSE, R2 comparison
-#   - Feature importance
-#   - Visualizations
-#   - Trained best model
-# ============================================================
+#    Cleaned modeling dataset
+#   Dataset statistics
+#   Source and feature requirement checks
+#   MAE, RMSE, R2 comparison
+#   Feature importance
+#   Visualizations
+#   Trained best model
 
 from pathlib import Path
 import re
@@ -45,9 +44,9 @@ from sklearn.preprocessing import OneHotEncoder, StandardScaler
 
 warnings.filterwarnings("ignore", category=FutureWarning)
 
-# ============================================================
-# 1. FILE PATHS
-# ============================================================
+
+# File paths
+
 
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data"
@@ -72,9 +71,7 @@ print("USED VEHICLE VALUE RETENTION - ML PIPELINE")
 print("=" * 65)
 print(f"Original listings: {len(df)}")
 
-# ============================================================
-# 2. VERIFY ORIGINAL DATA REQUIREMENTS
-# ============================================================
+# Verify original data requirments
 
 # These are collected fields, not engineered features.
 original_attributes = [
@@ -122,9 +119,7 @@ coverage.to_csv(
     index=False
 )
 
-# ============================================================
-# 3. SOURCE COUNTS BEFORE MODEL FILTERING
-# ============================================================
+# Source counts before model fitlering
 
 if "source" not in df.columns:
     raise ValueError("Dataset is missing the source column.")
@@ -144,9 +139,7 @@ if (source_counts < 500).any():
         "500 listings in the integrated dataset."
     )
 
-# ============================================================
-# 4. CLEAN NUMERIC VALUES
-# ============================================================
+# Clean numeric values
 
 numeric_cols = [
     "year",
@@ -179,12 +172,9 @@ df = df[
     & df["value_retention_ratio"].gt(0)
 ].copy()
 
-# Keep retention > 1: a listing can exceed its reference
-# base MSRP, especially when the vehicle has a higher trim.
+# Keep retention > 1: a listing can exceed its reference base MSRP, especially when the vehicle has a higher trim.
 
-# ============================================================
-# 5. REMOVE DUPLICATES
-# ============================================================
+#Remove dupes
 
 before_dedup = len(df)
 
@@ -230,15 +220,12 @@ df["source"].value_counts().rename_axis(
     index=False
 )
 
-# ============================================================
-# 6. FEATURE ENGINEERING
-# ============================================================
-
-# Description-derived features:
-# 1. One-owner claim
-# 2. Accident-free claim
-# 3. Certified pre-owned claim
-# 4. AWD / all-wheel-drive mention
+# Feature engineering
+# Description-derived features
+#  One-owner claim
+# Accident-free claim
+# Certified pre-owned claim
+# AWD / all-wheel-drive mention
 
 if "description" not in df.columns:
     df["description"] = ""
@@ -280,17 +267,9 @@ df["mileage_per_year"] = (
     df["vehicle_age"].clip(lower=1)
 )
 
-# ============================================================
-# 7. SELECT FEATURES
-# ============================================================
-
-# Trim is intentionally excluded, as discussed.
-# MSRP is intentionally excluded from X because it is used
-# directly in the target definition and could dominate
-# the model through a mechanical relationship.
-#
-# Price, VIN, listing URL, title, and description are also
-# excluded as direct predictors.
+#Select features
+# Trim is intentionally excluded. MSRP is intentionally excluded from X because it is used directly in the target definition and could dominate the model through a mechanical relationship.
+# Price, VIN, listing URL, title, and description are also excluded as direct predictors.
 
 
 numeric_features = [
@@ -326,9 +305,7 @@ X = df[
 
 y = df["value_retention_ratio"].copy()
 
-# ============================================================
-# 8. CUSTOM FREQUENCY ENCODER
-# ============================================================
+# Custom frequencxy encoder
 
 class FrequencyEncoder(BaseEstimator, TransformerMixin):
     """
@@ -375,9 +352,7 @@ class FrequencyEncoder(BaseEstimator, TransformerMixin):
         ], dtype=object)
 
 
-# ============================================================
-# 9. PREPROCESSING PIPELINE
-# ============================================================
+# Preprocessing pipeline
 
 numeric_pipeline = Pipeline([
     ("imputer", SimpleImputer(strategy="median")),
@@ -402,10 +377,7 @@ preprocessor = ColumnTransformer([
      frequency_features)
 ])
 
-# ============================================================
-# 10. TRAIN / TEST SPLIT
-# ============================================================
-
+# Trains and test
 if len(df) < 30:
     raise ValueError("Not enough records to train models.")
 
@@ -420,9 +392,7 @@ print("\nTRAIN / TEST SPLIT")
 print(f"Training samples: {len(X_train)}")
 print(f"Testing samples: {len(X_test)}")
 
-# ============================================================
-# 11. TRAIN THREE REGRESSION MODELS
-# ============================================================
+# Train three regression models
 
 algorithms = {
     "Ridge Regression": Ridge(alpha=10.0),
@@ -495,14 +465,10 @@ best_model = trained_models[best_name]
 
 print("\nBEST MODEL BY TEST RMSE:", best_name)
 
-# ============================================================
-# 12. FEATURE IMPORTANCE
-# ============================================================
+# Feature improtance
 
-# Permutation importance measures the change in test
-# performance when one original input feature is shuffled.
-# It works across all three models and retains meaningful
-# original feature names instead of expanded dummy columns.
+
+# It works across all three models and retains meaningful original feature names instead of expanded dummy columns.
 
 from sklearn.inspection import permutation_importance
 
@@ -530,9 +496,7 @@ importance_df.to_csv(
 print("\nTOP FEATURES")
 print(importance_df.head(10).to_string(index=False))
 
-# ============================================================
-# 13. SAVE DATASET AND MODEL
-# ============================================================
+#Save dataset and model
 
 df.to_csv(
     DATA / "used_cars_model_ready.csv",
@@ -544,9 +508,7 @@ joblib.dump(
     RESULTS / "best_retention_model.joblib"
 )
 
-# ============================================================
-# 14. VISUALIZATIONS
-# ============================================================
+# Visualizations
 
 def save_plot(filename):
     plt.tight_layout()
@@ -558,7 +520,7 @@ def save_plot(filename):
     plt.close()
 
 
-# Plot 1: Listing price distribution
+# Plot 1 Listing price distribution
 plt.figure(figsize=(9, 5))
 plt.hist(df["price"], bins=35, edgecolor="black")
 plt.title("Used Vehicle Listing Price Distribution")
@@ -567,7 +529,7 @@ plt.ylabel("Number of Vehicles")
 save_plot("01_price_distribution.png")
 
 
-# Plot 2: Mileage distribution
+# Plot 2 Mileage distribution
 plt.figure(figsize=(9, 5))
 plt.hist(
     df["mileage"].dropna(),
@@ -580,7 +542,7 @@ plt.ylabel("Number of Vehicles")
 save_plot("02_mileage_distribution.png")
 
 
-# Plot 3: Listings by make and model
+# Plot 3 Listings by make and model
 counts = (
     df.groupby(["make", "model"])
     .size()
@@ -594,7 +556,7 @@ plt.xlabel("Number of Vehicles")
 save_plot("03_make_model_frequencies.png")
 
 
-# Plot 4: Retention ratio distribution
+# Plot 4 Retention ratio distribution
 plt.figure(figsize=(9, 5))
 plt.hist(
     df["value_retention_ratio"],
@@ -607,7 +569,7 @@ plt.ylabel("Number of Vehicles")
 save_plot("04_retention_distribution.png")
 
 
-# Plot 5: Model RMSE comparison
+# Plot 5 Model RMSE comparison
 plt.figure(figsize=(9, 5))
 plt.bar(results_df["Model"], results_df["RMSE"])
 plt.title("Regression Model Performance - RMSE")
@@ -616,7 +578,7 @@ plt.xticks(rotation=15)
 save_plot("05_model_rmse.png")
 
 
-# Plot 6: Model R2 comparison
+# Plot 6 Model R2 comparison
 plt.figure(figsize=(9, 5))
 plt.bar(results_df["Model"], results_df["R2"])
 plt.title("Regression Model Performance - R2")
@@ -625,7 +587,7 @@ plt.xticks(rotation=15)
 save_plot("06_model_r2.png")
 
 
-# Plot 7: Feature importance
+# Plot 7 Feature importance
 top = importance_df.head(12).iloc[::-1]
 
 plt.figure(figsize=(10, 7))
@@ -635,7 +597,7 @@ plt.xlabel("Increase in RMSE When Feature Is Shuffled")
 save_plot("07_feature_importance.png")
 
 
-# Plot 8: Actual vs predicted
+# Plot 8 Actual vs predicted
 best_pred = predictions[best_name]
 
 plt.figure(figsize=(7, 7))
@@ -657,7 +619,7 @@ plt.ylabel("Predicted Retention Ratio")
 save_plot("08_actual_vs_predicted.png")
 
 
-# Plot 9: Vehicle age and retention
+# Plot 9 Vehicle age and retention
 age_summary = (
     df.groupby("vehicle_age")["value_retention_ratio"]
     .agg(["mean", "count"])
@@ -681,7 +643,7 @@ plt.ylabel("Average Retention Ratio")
 save_plot("09_depreciation_by_age.png")
 
 
-# Plot 10: Mileage and retention
+# Plot 10 Mileage and retention
 plt.figure(figsize=(9, 5))
 plt.scatter(
     df["mileage"],
@@ -694,10 +656,7 @@ plt.ylabel("Retention Ratio")
 save_plot("10_mileage_vs_retention.png")
 
 
-# ============================================================
-# 15. SUMMARY STATISTICS
-# ============================================================
-
+# Summary
 df.describe(include="all").transpose().to_csv(
     RESULTS / "dataset_statistics.csv"
 )
@@ -715,10 +674,7 @@ pd.DataFrame(
     index=False
 )
 
-# ============================================================
-# 16. FINAL SUMMARY
-# ============================================================
-
+# Final summary
 print("\n" + "=" * 65)
 print("PROJECT SUMMARY")
 print("=" * 65)
