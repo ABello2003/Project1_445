@@ -2,9 +2,7 @@
 import pandas as pd
 from pathlib import Path
 
-# ============================================================
-# CONFIGURATION
-# ============================================================
+#Configuration
 
 DATA = Path(__file__).resolve().parent / "data"
 
@@ -20,8 +18,7 @@ SUMMARY = DATA / "msrp_match_summary.txt"
 KEYS = ["year", "make", "model"]
 
 # The standard/base trim for each model.
-# CR-V starts at EX for 2023-2024 (LX was discontinued
-# for those model years).
+# CR-V starts at EX for 2023-2024
 BASE_TRIMS = {
     ("Honda", "Civic"): "LX",
     ("Honda", "Accord"): "LX",
@@ -41,9 +38,7 @@ PREFERRED_DRIVETRAINS = {
 }
 
 
-# ============================================================
-# LOAD DATA
-# ============================================================
+# Load data
 
 print("=" * 65)
 print("YEAR / MAKE / MODEL MSRP MATCHING")
@@ -76,9 +71,7 @@ if not required_reference_cols.issubset(references.columns):
     raise ValueError("MSRP database missing required columns.")
 
 
-# ============================================================
-# NORMALIZE DATA
-# ============================================================
+#Normalize data
 
 for df in [vehicles, references]:
     df["year"] = pd.to_numeric(
@@ -121,9 +114,7 @@ vehicles["price"] = pd.to_numeric(
 )
 
 
-# ============================================================
-# IDENTIFY BASE MSRP CONFIGURATIONS
-# ============================================================
+#Identify base MSRP=
 
 
 def get_base_trim(year, make, model):
@@ -227,9 +218,7 @@ print(f"Base MSRP configurations found: {len(base_df)}")
 print(f"Conflicting configurations: {len(conflicts)}")
 
 
-# ============================================================
-# MATCH BY YEAR + MAKE + MODEL
-# ============================================================
+# Match year make model
 
 # Remove MSRP results from previous runs.
 old_columns = [
@@ -287,10 +276,7 @@ merged.loc[
     valid, "verification_scope"
 ].fillna("NOT_INDEPENDENTLY_AUDITED")
 
-# ============================================================
-# SAVE RESULTS
-# ============================================================
-
+# Save
 merged.to_csv(OUTPUT, index=False)
 
 unmatched = merged[
@@ -314,10 +300,7 @@ if conflicts:
         index=False
     )
 
-# ============================================================
-# SUMMARY
-# ============================================================
-
+# Summary
 total = len(merged)
 matched = int(valid.sum())
 missing = total - matched
